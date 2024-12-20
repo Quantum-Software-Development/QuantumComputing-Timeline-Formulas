@@ -50,7 +50,7 @@ A tribute to some of the brightest minds who have shaped the field of quantum co
   
     <br>
 
-## 5.Erwin Schrödinger (1926) 🐈
+6. Erwin Schrödinger (1926) 🐈
 
 ![Erwin Schrödinger](path/to/image/schrodinger.jpg)
 
@@ -66,7 +66,7 @@ A tribute to some of the brightest minds who have shaped the field of quantum co
    <br>
 
 
-6. **Paul Dirac** (1928) ➕➖  
+7. **Paul Dirac** (1928) ➕➖  
 
     - **Formula**:
 
@@ -106,28 +106,28 @@ A tribute to some of the brightest minds who have shaped the field of quantum co
 
        <br> 
 
-11. **John Bell** (1964) 🔗  
+12. **John Bell** (1964) 🔗  
    - **Formula**: \( |E(a, b) + E(a, b') + E(a, b) - E(a', b')| \leq 2 \)  
    - **Explanation**: Bell's inequality tests if correlations between entangled particles can be explained by local theories.
    - **Contribution**: Fundamental for experiments that verified quantum entanglement and non-locality.
 
        <br> 
 
-12. **Alexander Holevo** (1973) 🧩  
+13. **Alexander Holevo** (1973) 🧩  
    - **Formula**: \( I(X:Y) \leq S(\rho) \)  
    - **Explanation**: The Holevo bound describes the maximum information extractable from a quantum system.
    - **Contribution**: Essential for quantum information theory, with implications in cryptography and quantum data transmission.
 
        <br> 
 
-13. **Peter Shor** (1994) 🔓  
+14. **Peter Shor** (1994) 🔓  
    - **Formula**: N/A  
    - **Explanation**: Shor's algorithm enables efficient factorization of large numbers, threatening the security of traditional cryptographic systems.
    - **Contribution**: The first quantum algorithm to solve complex problems more efficiently than classical algorithms.
 
        <br> 
 
-14. **Lov Grover** (1996) 🔍  
+15. **Lov Grover** (1996) 🔍  
    - **Formula**: N/A  
    - **Explanation**: Grover's algorithm improves search efficiency, reducing search time from \( O(N) \) to \( O(\sqrt{N}) \).
    - **Contribution**: Demonstrates how quantum computing can accelerate data search problems faster than classical computing.
