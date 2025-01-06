@@ -28,6 +28,7 @@ Feel free to explore, contribute, and share your insights!
 
 1. **Max Planck (1900)**
    * Founder of quantum theory by introducing the concept of energy quantization.
+     
    * **Formula**: Energy quantization: $\huge \color{DeepSkyBlue} {E = h \nu}$
   
 <br>
@@ -35,24 +36,28 @@ Feel free to explore, contribute, and share your insights!
 
 2. **Albert Einstein (1905)**
    * Explained the photoelectric effect, introducing the idea of photons.
+     
    * **Formula**: Energy of a photon: $\huge \color{DeepSkyBlue} {E = h \nu}$
   
  <br>
 
 3. **Niels Bohr (1913)**
    * Developed the Bohr model of the atom with quantized energy levels.
+     
    * **Formula**: Energy levels of hydrogen: $\huge \color{DeepSkyBlue} {E_n = - \frac{13.6}{n^2} \text{ eV}}$
   
 <br>
 
 4. **Erwin Schrödinger (1926)**
    * Developed Schrödinger's equation, forming the basis of wave mechanics.
+     
    * **Formula**: Schrödinger's equation: $\huge \color{DeepSkyBlue} {i\hbar \frac{\partial}{\partial t} |\psi(t)\rangle = \hat{H} |\psi(t)\rangle}$
 
 <br>
 
 5. **Werner Heisenberg (1927)**
    * Introduced the Uncertainty Principle, a cornerstone of quantum mechanics.
+     
    * **Formula**: Uncertainty relation: $\huge \color{DeepSkyBlue} {\Delta x \Delta p \geq \frac{\hbar}{2}}$
 
 <br>
