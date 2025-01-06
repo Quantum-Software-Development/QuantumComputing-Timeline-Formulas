@@ -29,6 +29,20 @@ Feel free to explore, contribute, and share your insights!
 1. **Max Planck (1900)**
    * Founder of quantum theory by introducing the concept of energy quantization.
    * **Formula**: Energy quantization: $\huge \color{DeepSkyBlue} {E = h \nu}$
+  
+<br>
+
+
+2. **Albert Einstein (1905)**
+   * Explained the photoelectric effect, introducing the idea of photons.
+   * **Formula**: Energy of a photon: $\huge \color{DeepSkyBlue} {E = h \nu}$
+  
+ <br>
+
+3. **Niels Bohr (1913)**
+   * Developed the Bohr model of the atom with quantized energy levels.
+   * **Formula**: Energy levels of hydrogen: $\huge \color{DeepSkyBlue} {E_n = - \frac{13.6}{n^2} \text{ eV}}$
+
 
 
 
