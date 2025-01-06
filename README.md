@@ -197,4 +197,4 @@ Feel free to add information or corrections. This repository encourages contribu
 
 #
 
-###### <p align="center"> Copyright 2024 Quantum Software Development. Code released under the [MIT license.](https://github.com/Quantum-Software-Development/README/blob/161b677c5a791f0ca8219b8e934f1cf353d5b85d/LICENSE)
+###### <p align="center"> Copyright 2025 Quantum Software Development. Code released under the [MIT license.](https://github.com/Quantum-Software-Development/README/blob/161b677c5a791f0ca8219b8e934f1cf353d5b85d/LICENSE)
