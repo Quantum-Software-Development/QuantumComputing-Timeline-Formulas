@@ -4,9 +4,7 @@
  <br>
 
 
-# <p align="center"> 🧠 **Great Minds of Quantum Computing**
-
-A tribute to some of the brightest minds who have shaped the field of quantum computing. This repository highlights their fundamental contributions, innovative concepts, and the formulas that made them famous.
+# <p align="center"> 🧠 **Quantum Computing Timeline with Key Contributions and Formulas**
 
 <br><br>
 
@@ -14,8 +12,29 @@ A tribute to some of the brightest minds who have shaped the field of quantum co
 ### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
 
- <br>
+ <br><br>
 
+
+## About This Repository
+
+This repository is designed to serve as an educational resource, showcasing the progression of quantum computing, key contributions, and foundational formulas. Contributions and discussions are encouraged to expand on these materials and foster collaboration in the field of quantum computing.
+Feel free to explore, contribute, and share your insights!
+
+
+## Timeline of Quantum Computing: Scientists and Contributions
+
+
+### Early 20th Century – Foundations of Quantum Mechanics
+
+1. **Max Planck (1900)**
+   * Founder of quantum theory by introducing the concept of energy quantization.
+   * **Formula**: Energy quantization: $\huge \color{DeepSkyBlue} {E = h \nu}$
+
+
+
+
+
+<!--
 
 1. **Max Planck** (1900) 🌌  
 
@@ -142,7 +161,7 @@ This repository is a tribute to these great thinkers who have shaped physics and
 ## How to Contribute
 
 Feel free to add information or corrections. This repository encourages contributions from everyone interested in Quantum Computing!
-
+-->
 
 #
 
