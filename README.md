@@ -80,6 +80,15 @@ Feel free to explore, contribute, and share your insights!
 
 1. **John von Neumann (1932)**
    * Formalized the mathematical framework of quantum mechanics and introduced operator theory.
+  
+<br>
+  
+2. **Richard Feynman (1981)**
+   * Proposed the concept of quantum computers as simulators for physical systems.
+  
+<br>
+
+
 
 
 
