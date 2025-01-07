@@ -99,6 +99,8 @@ Feel free to explore, contribute, and share your insights!
 
 1. **Peter Shor (1994)**
    * Developed Shor’s algorithm for quantum factorization.
+
+   * **Formula**: Period-finding problem in modular arithmetic: $\huge \color{DeepSkyBlue} {a^x \mod N = 1}$
      
  
 
