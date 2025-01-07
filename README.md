@@ -43,10 +43,10 @@ Feel free to explore, contribute, and share your insights!
 <br>
 
 
-2. **Albert Einstein (1905)**
+2. **Albert Einstein (1905)** 💡
    **Contribution**: His ideas on wave-particle duality were crucial for modern physics, laying the foundation for quantum mechanics.
    
-   - * Explained the photoelectric effect, introducing the idea of photons.
+   -  Explained the photoelectric effect, introducing the idea of photons.
   
    - **Explanation**: Through the photoelectric effect, Einstein proposed that light behaves as particles (photons) with quantized energy, challenging the classical view of light as just a wave.
 
