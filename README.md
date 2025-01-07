@@ -89,7 +89,7 @@ Feel free to explore, contribute, and share your insights!
    - **Explanation**: Feynman developed the path integral, an alternative approach to describe quantum mechanics through trajectories.
    - **Contribution**: Proposed the idea of a quantum computer to simulate quantum phenomena, marking the beginning of quantum computing.
   
-   * **Formula**: $\( S = \int \mathcal{L} \, dt \)$  
+   * **Formula**: $\huge \color{DeepSkyBlue}S = \int \mathcal{L} \, dt \$  
 
   
 <br>
