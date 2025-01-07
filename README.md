@@ -85,6 +85,7 @@ Feel free to explore, contribute, and share your insights!
      
    - **Contribution**: Formalized quantum theory, especially the description of quantum states and the mathematical interpretation of wave function collapse.
 
+   - **Formula**: $\huge \color{DeepSkyBlue}\langle \psi | \hat{A} | \psi \rangle \$ 
   
 <br>
   
