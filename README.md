@@ -83,8 +83,14 @@ Feel free to explore, contribute, and share your insights!
   
 <br>
   
-2. **Richard Feynman (1981)**
+2. **Richard Feynman (1981)** 💻  
    * Proposed the concept of quantum computers as simulators for physical systems.
+ 
+   - **Explanation**: Feynman developed the path integral, an alternative approach to describe quantum mechanics through trajectories.
+   - **Contribution**: Proposed the idea of a quantum computer to simulate quantum phenomena, marking the beginning of quantum computing.
+  
+   * **Formula**: $\( S = \int \mathcal{L} \, dt \)$  
+
   
 <br>
 
