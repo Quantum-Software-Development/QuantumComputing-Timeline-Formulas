@@ -36,7 +36,7 @@ Feel free to explore, contribute, and share your insights!
 1. **Max Planck (1900)**  🌌  
    **Contribution**: Known as the "father of quantum theory," his discovery opened the door to quantum physics.
      
-   - **Explanation**: Planck introduced the idea that energy is emitted in discrete quantities, called "quanta." His theory was the first step toward modern quantum physics.
+   * **Explanation**: Planck introduced the idea that energy is emitted in discrete quantities, called "quanta." His theory was the first step toward modern quantum physics.
      
    * **Formula**: Energy quantization: $\huge \color{DeepSkyBlue} {E = h \nu}$
   
@@ -44,8 +44,12 @@ Feel free to explore, contribute, and share your insights!
 
 
 2. **Albert Einstein (1905)**
-   * Explained the photoelectric effect, introducing the idea of photons.
-     
+   **Contribution**: His ideas on wave-particle duality were crucial for modern physics, laying the foundation for quantum mechanics.
+   
+   - * Explained the photoelectric effect, introducing the idea of photons.
+  
+   - **Explanation**: Through the photoelectric effect, Einstein proposed that light behaves as particles (photons) with quantized energy, challenging the classical view of light as just a wave.
+
    * **Formula**: Energy of a photon: $\huge \color{DeepSkyBlue} {E = h \nu}$
   
  <br>
