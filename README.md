@@ -78,8 +78,13 @@ Feel free to explore, contribute, and share your insights!
 
 ## Mid-20th Century – Foundations for Quantum Information
 
-1. **John von Neumann (1932)**
+1. **John von Neumann (1932)**  📐
    * Formalized the mathematical framework of quantum mechanics and introduced operator theory.
+  
+   - **Explanation**: Von Neumann established the mathematical foundation of quantum mechanics, including measurement theory and the concept of operators.
+     
+   - **Contribution**: Formalized quantum theory, especially the description of quantum states and the mathematical interpretation of wave function collapse.
+
   
 <br>
   
