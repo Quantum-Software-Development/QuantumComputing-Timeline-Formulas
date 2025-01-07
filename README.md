@@ -87,6 +87,7 @@ Feel free to explore, contribute, and share your insights!
    * Proposed the concept of quantum computers as simulators for physical systems.
  
    - **Explanation**: Feynman developed the path integral, an alternative approach to describe quantum mechanics through trajectories.
+     
    - **Contribution**: Proposed the idea of a quantum computer to simulate quantum phenomena, marking the beginning of quantum computing.
   
    * **Formula**: $\huge \color{DeepSkyBlue}S = \int \mathcal{L} \, dt \$  
