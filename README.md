@@ -28,10 +28,10 @@ Feel free to explore, contribute, and share your insights!
 
 <br>
 
-## [Timeline of Quantum Computing](): Scientists and Contributions
+# [Timeline of Quantum Computing](): Scientists and Contributions
 
 
-### Early 20th Century – Foundations of Quantum Mechanics
+## Early 20th Century – Foundations of Quantum Mechanics
 
 1. **Max Planck (1900)**
    * Founder of quantum theory by introducing the concept of energy quantization.
@@ -75,6 +75,12 @@ Feel free to explore, contribute, and share your insights!
    * **Formula**: Dirac equation: $\huge \color{DeepSkyBlue} {\left( i \hbar \gamma^\mu \partial_\mu - mc \right) \psi = 0}$
 
 <br>
+
+## Mid-20th Century – Foundations for Quantum Information
+
+1. **John von Neumann (1932)**
+   * Formalized the mathematical framework of quantum mechanics and introduced operator theory.
+
 
 
 <!--
