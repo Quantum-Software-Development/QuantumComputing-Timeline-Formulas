@@ -33,8 +33,12 @@ Feel free to explore, contribute, and share your insights!
 
 ## Early 20th Century – Foundations of Quantum Mechanics
 
-1. **Max Planck (1900)**
+1. **Max Planck (1900)**  🌌  
    * Founder of quantum theory by introducing the concept of energy quantization.
+  
+   - **Explanation**: Planck introduced the idea that energy is emitted in discrete quantities, called "quanta." His theory was the first step toward modern quantum physics.
+     
+   - **Contribution**: Known as the "father of quantum theory," his discovery opened the door to quantum physics.
      
    * **Formula**: Energy quantization: $\huge \color{DeepSkyBlue} {E = h \nu}$
   
