@@ -88,7 +88,12 @@ Feel free to explore, contribute, and share your insights!
   
 <br>
 
+3. **David Deutsch (1985)**
+   * Proposed the concept of a quantum Turing machine and formulated the first quantum algorithm.
+     
+   * **Formula**: General state of a qubit: $\huge \color{DeepSkyBlue} {|\psi\rangle = \alpha|0\rangle + \beta|1\rangle}$
 
+<br>
 
 
 
