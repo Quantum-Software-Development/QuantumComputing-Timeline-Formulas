@@ -28,10 +28,10 @@ Feel free to explore, contribute, and share your insights!
 
 <br>
 
-# [Timeline of Quantum Computing](): Scientists and Contributions
+## [Timeline of Quantum Computing](): Scientists and Contributions
 
 
-## Early 20th Century – Foundations of Quantum Mechanics
+### Early 20th Century – Foundations of Quantum Mechanics
 
 1. **Max Planck (1900)**  🌌  
    **Contribution**: Known as the "father of quantum theory," his discovery opened the door to quantum physics.
@@ -82,7 +82,7 @@ Feel free to explore, contribute, and share your insights!
 
 <br>
 
-## Mid-20th Century – Foundations for Quantum Information
+### Mid-20th Century – Foundations for Quantum Information
 
 1. **John von Neumann (1932)**  📐
    * Formalized the mathematical framework of quantum mechanics and introduced operator theory.
@@ -114,7 +114,7 @@ Feel free to explore, contribute, and share your insights!
 
 <br>
 
-## 1990s and 2000s – Quantum Computing Development
+### 1990s and 2000s – Quantum Computing Development
 
 1. **Peter Shor (1994)**
    * Developed Shor’s algorithm for quantum factorization.
