@@ -118,9 +118,9 @@ Feel free to explore, contribute, and share your insights!
 
 <br>
 
-### 1990s and 2000s – Quantum Computing Development
+### 1990s and 2000s – [Quantum Computing Development]()
 
-<br><br>
+<br>
 
 1. **Peter Shor (1994)**
    * Developed Shor’s algorithm for quantum factorization.
