@@ -147,9 +147,9 @@ Feel free to explore, contribute, and share your insights!
    - Based on the concept of **reversible computation**, where operations can be undone without information loss, reducing energy dissipation (aligned with the second law of thermodynamics).  
 
    Simplified formula for energy and information conservation:  
-   \[
-   \Delta S = 0 \quad \text{(Entropy remains constant for reversible systems)}
-   \]
+
+   $\Delta S = 0 \quad \text{(Entropy remains constant for reversible systems)}$
+   
 
 2. **Quantum Teleportation**:  
    - Describes the transfer of quantum states between particles via quantum entanglement, without physically transferring the particle itself.  
