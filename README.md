@@ -31,9 +31,9 @@ Feel free to explore, contribute, and share your insights!
 ## [Timeline of Quantum Computing](): Scientists and Contributions
 
 
-### Early 20th Century – Foundations of Quantum Mechanics
+### Early 20th Century – [Foundations of Quantum Mechanics]()
 
-<br><br>
+<br>
 
 1. **Max Planck (1900)**  🌌  
    **Contribution**: Known as the "father of quantum theory," his discovery opened the door to quantum physics.
