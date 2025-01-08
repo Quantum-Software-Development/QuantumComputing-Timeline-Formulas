@@ -156,11 +156,11 @@ Feel free to explore, contribute, and share your insights!
    
    Where:  
    
-   - $\huge \color{DeepSkyBlue} \(|\psi\rangle_C\)$ is the reconstructed state at the destination (C).
+   - $\large \color{DeepSkyBlue} \(|\psi\rangle_C\)$ is the reconstructed state at the destination (C).
      
-   - $\huge \color{DeepSkyBlue} \(|\phi\rangle_A\)$ is the initial quantum state (A).
+   - $\large \color{DeepSkyBlue} \(|\phi\rangle_A\)$ is the initial quantum state (A).
      
-   - $\huge \color{DeepSkyBlue} \(|\beta_{00}\rangle_{BC}\)$ represents the entangled particle pair (B and C).  
+   - $\large \color{DeepSkyBlue} \(|\beta_{00}\rangle_{BC}\)$ represents the entangled particle pair (B and C).  
 
 
       
