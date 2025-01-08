@@ -128,6 +128,14 @@ Feel free to explore, contribute, and share your insights!
    * Developed Shor’s algorithm for quantum factorization.
 
    * **Formula**: Period-finding problem in modular arithmetic: $\huge \color{DeepSkyBlue} {a^x \mod N = 1}$
+  
+<br>
+
+2. **Lov Grover (1996)**
+   * Developed Grover’s quantum search algorithm.
+     
+   * **Formula**: Probability amplitude for successful search: $\huge \color{DeepSkyBlue} {\sin^2 \left((2k + 1)\theta\right)}$
+
      
  
 
