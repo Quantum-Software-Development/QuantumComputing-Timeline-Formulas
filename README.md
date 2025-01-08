@@ -33,6 +33,8 @@ Feel free to explore, contribute, and share your insights!
 
 ### Early 20th Century – Foundations of Quantum Mechanics
 
+<br><br>
+
 1. **Max Planck (1900)**  🌌  
    **Contribution**: Known as the "father of quantum theory," his discovery opened the door to quantum physics.
      
@@ -84,6 +86,8 @@ Feel free to explore, contribute, and share your insights!
 
 ### Mid-20th Century – Foundations for Quantum Information
 
+<br><br>
+
 1. **John von Neumann (1932)**  📐
    * Formalized the mathematical framework of quantum mechanics and introduced operator theory.
   
@@ -115,6 +119,8 @@ Feel free to explore, contribute, and share your insights!
 <br>
 
 ### 1990s and 2000s – Quantum Computing Development
+
+<br><br>
 
 1. **Peter Shor (1994)**
    * Developed Shor’s algorithm for quantum factorization.
