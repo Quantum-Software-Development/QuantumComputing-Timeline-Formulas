@@ -146,22 +146,21 @@ Feel free to explore, contribute, and share your insights!
    3.1 **Reversible Computing**:  
    - Based on the concept of **reversible computation**, where operations can be undone without information loss, reducing energy dissipation (aligned with the second law of thermodynamics).  
 
-   Simplified formula for energy and information conservation:  $\huge \color{DeepSkyBlue} \Delta S = 0 \quad \text{(Entropy remains constant for reversible systems)}$
+   Simplified formula for energy and information conservation: $\huge \color{DeepSkyBlue} \Delta S = 0 \quad \text{(Entropy remains constant for reversible systems)}$
    
 
    3.2 **Quantum Teleportation**:  
    - Describes the transfer of quantum states between particles via quantum entanglement, without physically transferring the particle itself.  
 
-   Generic formula for quantum teleportation:  
-   
-   $\huge \color{DeepSkyBlue} \psi\rangle_C = |\phi\rangle_A \otimes |\beta_{00}\rangle_{BC}$
+   Generic formula for quantum teleportation: $\huge \color{DeepSkyBlue} \psi\rangle_C = |\phi\rangle_A \otimes |\beta_{00}\rangle_{BC}$
    
    Where:  
-   - \huge \color{DeepSkyBlue} \(|\psi\rangle_C\) is the reconstructed state at the destination (C).
+   
+   - $\huge \color{DeepSkyBlue} \(|\psi\rangle_C\)$ is the reconstructed state at the destination (C).
      
-   - \huge \color{DeepSkyBlue} \(|\phi\rangle_A\) is the initial quantum state (A).
+   - $\huge \color{DeepSkyBlue} \(|\phi\rangle_A\)$ is the initial quantum state (A).
      
-   - \huge \color{DeepSkyBlue} \(|\beta_{00}\rangle_{BC}\) represents the entangled particle pair (B and C).  
+   - $\huge \color{DeepSkyBlue} \(|\beta_{00}\rangle_{BC}\)$ represents the entangled particle pair (B and C).  
 
 
       
