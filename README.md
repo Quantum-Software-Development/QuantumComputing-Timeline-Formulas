@@ -135,6 +135,12 @@ Feel free to explore, contribute, and share your insights!
    * Developed Grover’s quantum search algorithm.
      
    * **Formula**: Probability amplitude for successful search: $\huge \color{DeepSkyBlue} {\sin^2 \left((2k + 1)\theta\right)}$
+  
+ <br>
+
+ 3. **Charles Bennett (1993)**
+    * Worked on reversible computing and discovered quantum teleportation.
+
 
      
  
