@@ -128,6 +128,12 @@ Feel free to explore, contribute, and share your insights!
    - $\large \color{DeepSkyBlue} p_i$ are the probabilities of the quantum states.  
    - $\large \color{DeepSkyBlue} |\psi_i\rangle$ are the individual quantum states.
   
+#
+
+8. **Claude Shannon (1948)**  
+   * Although Shannon is primarily known for classical information theory, his definition of entropy plays a crucial role in both quantum computing and quantum information theory. Shannon's entropy measures the uncertainty of a random variable, and this concept extends to quantum systems, forming the foundation for quantum information theory.  
+   
+   
 
 
 
