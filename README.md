@@ -155,6 +155,11 @@ Feel free to explore, contribute, and share your insights!
  10. **Richard Feynman (1981)**  
    * Introduced the idea of quantum computers as simulators for physical systems.
 
+   Simplified formula for simulating quantum systems:  
+   $\huge \color{DeepSkyBlue} U(t) = e^{-iHt/\hbar}$  
+
+ 
+
   
 
 
