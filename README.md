@@ -158,6 +158,13 @@ Feel free to explore, contribute, and share your insights!
    Simplified formula for simulating quantum systems:  
    $\huge \color{DeepSkyBlue} U(t) = e^{-iHt/\hbar}$  
 
+   Where:  
+   - $\large \color{DeepSkyBlue} U(t)$ is the time evolution operator.  
+   - $\large \color{DeepSkyBlue} H$ is the Hamiltonian of the system.
+     
+  
+   
+
  
 
   
