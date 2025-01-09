@@ -33,7 +33,7 @@ Feel free to explore, contribute, and share your insights!
 
 <br>
 
-### <p align="center">  Early 20th Century – [Foundations of Quantum Mechanics]()
+## <p align="center">  Early 20th Century – [Foundations of Quantum Mechanics]()
 
 <br>
 
@@ -114,7 +114,7 @@ Feel free to explore, contribute, and share your insights!
 
 <br>
 
-### <p align="center">  Mid-20th Century – Foundation for Quantum Information
+## <p align="center">  Mid-20th Century – Foundation for Quantum Information
 
 <br>
 
