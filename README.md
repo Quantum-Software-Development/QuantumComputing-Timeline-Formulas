@@ -162,7 +162,7 @@ Feel free to explore, contribute, and share your insights!
    - $\large \color{DeepSkyBlue} U(t)$ is the time evolution operator.  
    - $\large \color{DeepSkyBlue} H$ is the Hamiltonian of the system.
      
-  
+ # 
    
 
  
@@ -436,7 +436,7 @@ Feel free to explore, contribute, and share your insights!
 
 -->
 
- <br><br><br>
+ <br><br><br>br><br><br>
 
 ## Contributions and References
 
