@@ -117,10 +117,16 @@ Feel free to explore, contribute, and share your insights!
 
 <br>
 
-
 7. **John von Neumann (1932)**  
    * Formalized the mathematics of quantum mechanics and introduced operator theory.
 
+   Formula for the density matrix in Hilbert space:  
+   $\huge \color{DeepSkyBlue} \rho = \sum_i p_i |\psi_i\rangle \langle\psi_i|$
+
+   Where:  
+   - $\large \color{DeepSkyBlue} \rho$ is the density matrix.  
+   - $\large \color{DeepSkyBlue} p_i$ are the probabilities of the quantum states.  
+   - $\large \color{DeepSkyBlue} |\psi_i\rangle$ are the individual quantum states.
   
 
 
