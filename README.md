@@ -31,8 +31,7 @@ Feel free to explore, contribute, and share your insights!
 
 ## [Timeline of Quantum Computing](): Scientists and Contributions
 
-<br><br>
-
+<br>
 
 ### Early 20th Century – [Foundations of Quantum Mechanics]()
 
