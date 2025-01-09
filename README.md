@@ -177,7 +177,7 @@ Feel free to explore, contribute, and share your insights!
      - **Total bits sent** refers to the total number of qubits transmitted during the key distribution process.
     
       
-     [This formula is essential for determining the level of interference and security in quantum communication systems]().
+     This formula is essential for determining the [level of interference and security in quantum communication systems]().
      The [lower the QBER](), the [higher the security]() of the quantum key distribution process.
 
 #
