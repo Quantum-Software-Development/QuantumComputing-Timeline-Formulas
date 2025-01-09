@@ -148,7 +148,7 @@ Feel free to explore, contribute, and share your insights!
    * **Quantum Money [Quantum Currency]()**
      
      - Wiesner's idea of "quantum money" suggests using quantum states to encode currency, making it practically impossible to forge due to the properties of quantum states.  
-     - The exact mathematical formulation varies depending on the implementation, but the general idea relies on quantum superposition and entanglement to ensure security and authenticity.  
+     - [The exact mathematical formulation varies depending on the implementation](), but the general idea relies on [quantum superposition]() and [entanglement]() to ensure security and authenticity.  
 
    #
  
