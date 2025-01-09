@@ -74,7 +74,6 @@ Feel free to explore, contribute, and share your insights!
    - $\large \color{DeepSkyBlue} E_n$ is the energy of level $n$.  
    - $\large \color{DeepSkyBlue} n$ is the principal quantum number.
   
-
 #   
 
 4. **Erwin Schrödinger (1926)**  
@@ -87,7 +86,20 @@ Feel free to explore, contribute, and share your insights!
    - $\large \color{DeepSkyBlue} \psi(r, t)$ is the wave function of the system.  
    - $\large \color{DeepSkyBlue} \hat{H}$ is the Hamiltonian operator.  
    - $\large \color{DeepSkyBlue} \hbar$ is the reduced Planck constant.
+  
+ #
 
+5. **Werner Heisenberg (1927)**  
+   * Uncertainty Principle, central to quantum physics.
+
+   Formula for the Uncertainty Principle:  
+   $\huge \color{DeepSkyBlue} \Delta x \cdot \Delta p \geq \frac{\hbar}{2}$
+
+   Where:  
+   - $\large \color{DeepSkyBlue} \Delta x$ is the uncertainty in position.  
+   - $\large \color{DeepSkyBlue} \Delta p$ is the uncertainty in momentum.
+  
+ #
 
 
 
