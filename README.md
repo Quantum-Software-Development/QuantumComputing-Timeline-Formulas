@@ -111,9 +111,9 @@ Feel free to explore, contribute, and share your insights!
    - $\large \color{DeepSkyBlue} m$ is the mass of the particle.  
 
 
-<br>
+<br><br>
 
-## <p align="center">  Mid-20th Century – Foundation for Quantum Information
+## <p align="center">  Mid-20th Century – [Foundation for Quantum Information]()
 
 <br>
 
