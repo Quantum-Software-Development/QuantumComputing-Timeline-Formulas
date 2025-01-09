@@ -169,8 +169,10 @@ Feel free to explore, contribute, and share your insights!
 
    * **BB84 Protocol Formula:**  
      The Quantum Bit Error Rate (QBER) is used to measure the efficiency and security of the BB84 protocol by determining the rate of errors that occur during the transmission of quantum bits (qubits). It is calculated as follows:  
+
+     $\huge \color{DeepSkyBlue} QBER = \frac{\text{observable error}}{\text{total bits sent}}$  
      
-   
+    
   
    
 
