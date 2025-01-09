@@ -39,6 +39,16 @@ Feel free to explore, contribute, and share your insights!
 <br>
 
 
+1. **Max Planck (1900)**  
+   * Founder of quantum theory by introducing the concept of energy quantization.
+
+   Formula for quantized energy:  
+   $\huge \color{DeepSkyBlue} E = h \cdot f$
+
+   Where:  
+   - $\large \color{DeepSkyBlue} E$ is the energy of the photon.  
+   - $\large \color{DeepSkyBlue} h$ is Planck's constant ($6.626 \times 10^{-34} \, \text{J·s}$).  
+   - $\large \color{DeepSkyBlue} f$ is the radiation frequency.  
 
 
 
