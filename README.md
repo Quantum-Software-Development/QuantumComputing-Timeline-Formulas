@@ -137,8 +137,8 @@ Feel free to explore, contribute, and share your insights!
     $\huge \color{DeepSkyBlue} H = -\sum p_i \log p_i$
      
      Where:  
-     - $H$ is the entropy of the system (quantifies uncertainty or information).  
-     - $p_i$ represents the probability of the $i^{th}$ event or outcome
+     - $\large \color{DeepSkyBlue} H$ is the entropy of the system (quantifies uncertainty or information).  
+     - $\large \color{DeepSkyBlue} p_i$ represents the probability of the $\large \color{DeepSkyBlue} i^{th}$ event or outcome
    
   
    
