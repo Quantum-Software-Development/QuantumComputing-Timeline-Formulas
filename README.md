@@ -138,7 +138,7 @@ Feel free to explore, contribute, and share your insights!
      
      Where:  
      - $\large \color{DeepSkyBlue} H$ is the entropy of the system (quantifies uncertainty or information).  
-     - $\large \color{DeepSkyBlue} p_i$ represents the probability of the $\large \color{DeepSkyBlue} i^{th}$ event or outcome
+     - $\large \color{DeepSkyBlue} p_i$ represents the probability of the $\large \color{DeepSkyBlue} i^{th}$ event or outcome.
    
   
    
