@@ -48,7 +48,37 @@ Feel free to explore, contribute, and share your insights!
    Where:  
    - $\large \color{DeepSkyBlue} E$ is the energy of the photon.  
    - $\large \color{DeepSkyBlue} h$ is Planck's constant ($6.626 \times 10^{-34} \, \text{J·s}$).  
-   - $\large \color{DeepSkyBlue} f$ is the radiation frequency.  
+   - $\large \color{DeepSkyBlue} f$ is the radiation frequency.
+
+
+#
+  
+2. **Albert Einstein (1905)**  
+   * Explanation of the photoelectric effect, which introduced the concept of photons.
+
+   Formula for the photoelectric effect:  
+   $\huge \color{DeepSkyBlue} E_{photon} = h \cdot f = W + K$
+
+   Where:  
+   - $\large \color{DeepSkyBlue} W$ is the work function (minimum energy required to remove an electron).  
+   - $\large \color{DeepSkyBlue} K$ is the kinetic energy of the ejected electron.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
