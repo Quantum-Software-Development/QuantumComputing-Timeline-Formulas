@@ -37,6 +37,19 @@ Feel free to explore, contribute, and share your insights!
 
 <br>
 
+
+
+
+
+
+
+
+
+
+
+
+<!--
+
 1. **Max Planck (1900)**  🌌  
    **Contribution**: Known as the "father of quantum theory," his discovery opened the door to quantum physics.
      
@@ -285,6 +298,7 @@ Feel free to explore, contribute, and share your insights!
    - **Explanation**: Grover's algorithm improves search efficiency, reducing search time from \( O(N) \) to \( O(\sqrt{N}) \).
    - **Contribution**: Demonstrates how quantum computing can accelerate data search problems faster than classical computing.
 
+-->
 
  <br>
 
