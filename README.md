@@ -168,7 +168,7 @@ Feel free to explore, contribute, and share your insights!
    * Co-founder of the [BB84 protocol](), the first functional quantum cryptography system. The BB84 protocol is a [quantum key distribution] (QKD) protocol that allows two parties to [securely exchange cryptographic keys]() over a potentially insecure channel. The security of BB84 relies on the principles of quantum mechanics, particularly quantum superposition and the no-cloning theorem.  
 
    * **BB84 Protocol Formula:**  
-     The Quantum Bit Error Rate (QBER) is used to measure the efficiency and security of the BB84 protocol by determining the rate of errors that occur during the transmission of quantum bits (qubits). It is calculated as follows:  
+     The Quantum Bit Error Rate (QBER) is used to measure the efficiency and security of the BB84 protocol by determining the [rate of errors]() that occur during the [transmission of quantum bits]() (qubits). It is calculated as follows:  
 
      $\huge \color{DeepSkyBlue} QBER = \frac{\text{observable error}}{\text{total bits sent}}$
 
