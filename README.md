@@ -28,9 +28,10 @@ This repository is designed to serve as an educational resource, showcasing the 
 Feel free to explore, contribute, and share your insights!
 
 
-<br>
 
 ## [Timeline of Quantum Computing](): Scientists and Contributions
+
+<br><br>
 
 
 ### Early 20th Century – [Foundations of Quantum Mechanics]()
