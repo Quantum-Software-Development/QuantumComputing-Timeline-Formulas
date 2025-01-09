@@ -139,6 +139,13 @@ Feel free to explore, contribute, and share your insights!
      Where:  
      - $\large \color{DeepSkyBlue} H$ is the entropy of the system (quantifies uncertainty or information).  
      - $\large \color{DeepSkyBlue} p_i$ represents the probability of the $\large \color{DeepSkyBlue} i^{th}$ event or outcome.
+  
+  #
+
+   9. **Stephen Wiesner (1970)**  
+   * Introduced the concepts of quantum cryptography and quantum money, making significant contributions to the development of secure communication systems. Wiesner's work laid the groundwork for the field of quantum cryptography.  
+   
+ 
    
   
    
