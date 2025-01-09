@@ -33,7 +33,7 @@ Feel free to explore, contribute, and share your insights!
 
 <br>
 
-### Early 20th Century – [Foundations of Quantum Mechanics]()
+### <p align="center">  Early 20th Century – [Foundations of Quantum Mechanics]()
 
 <br>
 
