@@ -132,7 +132,15 @@ Feel free to explore, contribute, and share your insights!
 
 8. **Claude Shannon (1948)**  
    * Although Shannon is primarily known for classical information theory, his definition of entropy plays a crucial role in both quantum computing and quantum information theory. Shannon's entropy measures the uncertainty of a random variable, and this concept extends to quantum systems, forming the foundation for quantum information theory.  
+
+    Formula for Shannon Entropy (used in quantum information theory):**  
+    $\huge \color{DeepSkyBlue} H = -\sum p_i \log p_i$
+     
+     Where:  
+     - $H$ is the entropy of the system (quantifies uncertainty or information).  
+     - $p_i$ represents the probability of the $i^{th}$ event or outcome
    
+  
    
 
 
