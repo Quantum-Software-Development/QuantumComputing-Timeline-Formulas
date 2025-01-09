@@ -110,9 +110,14 @@ Feel free to explore, contribute, and share your insights!
    - $\large \color{DeepSkyBlue} \gamma^\mu$ are the Dirac matrices.  
    - $\large \color{DeepSkyBlue} m$ is the mass of the particle.  
 
+#
+
 <br>
 
-## Mid-20th Century – Foundation for Quantum Information
+### <p align="center">  Mid-20th Century – Foundation for Quantum Information
+
+<br>
+
 
 7. **John von Neumann (1932)**  
    * Formalized the mathematics of quantum mechanics and introduced operator theory.
