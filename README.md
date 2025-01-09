@@ -173,8 +173,8 @@ Feel free to explore, contribute, and share your insights!
      $\huge \color{DeepSkyBlue} QBER = \frac{\text{observable error}}{\text{total bits sent}}$
 
       Where:  
-     - **Observable error** refers to the number of bits where the transmitted and received values differ due to noise or eavesdropping.  
-     - **Total bits sent** refers to the total number of qubits transmitted during the key distribution process.
+     - [**Observable error**]() refers to the number of bits where the transmitted and received values differ due to noise or eavesdropping.  
+     - [**Total bits sent**]() refers to the total number of qubits transmitted during the key distribution process.
     
       
      This formula is essential for determining the [level of interference and security in quantum communication systems]().
