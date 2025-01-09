@@ -174,7 +174,13 @@ Feel free to explore, contribute, and share your insights!
 
       Where:  
      - **Observable error** refers to the number of bits where the transmitted and received values differ due to noise or eavesdropping.  
-     - **Total bits sent** refers to the total number of qubits transmitted during the key distribution process.  
+     - **Total bits sent** refers to the total number of qubits transmitted during the key distribution process.
+    
+      
+     This formula is essential for determining the level of interference and security in quantum communication systems. The lower the QBER, the higher the security of the quantum key distribution process.
+This section can be added to your README.md for a comprehensive explanation of Gilles Brassard's work and the formula related to the BB84 protocol.
+
+#
   
    
      
