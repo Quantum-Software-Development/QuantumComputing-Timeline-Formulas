@@ -36,8 +36,7 @@ Feel free to explore, contribute, and share your insights!
 
 
 1. [Max Planck]() **(1900)** <br>
- ────────────── ✦ ──────────────
-
+ ────────────── 
    * Founder of quantum theory by introducing the concept of energy quantization.
 
    Formula for quantized energy:
