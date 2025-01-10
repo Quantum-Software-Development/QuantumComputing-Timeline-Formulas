@@ -183,7 +183,16 @@ Feel free to explore, contribute, and share your insights!
 #
 
   12. **David Deutsch (1985)**  
-   * Proposed the concept of the quantum Turing machine and formulated the first quantum algorithm.  
+   * Proposed the concept of the quantum Turing machine and formulated the first quantum algorithm.
+   
+   Formulation of Deutsch's Algorithm:  
+   $\huge \color{DeepSkyBlue} |q\rangle = \frac{1}{\sqrt{2}}(|0\rangle + |1\rangle)$  
+
+   Where:  
+   - $\large \color{DeepSkyBlue} |q\rangle$ is the superposed state of a qubit.  
+   
+     
+    
 
   
    
