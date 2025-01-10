@@ -32,6 +32,7 @@ Feel free to explore, contribute, and share your insights!
 
 ## <p align="center"> Mathematical Foundations for [Quantum Mechanics and Quantum Computation]()
 
+<br>
 
 1- [Joseph Fourier](*) **(1822)**   <br>
  ────────────── 
