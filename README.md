@@ -50,10 +50,13 @@ Feel free to explore, contribute, and share your insights!
 
 #
   
-2. **Albert Einstein (1905)**  
+2. [Albert Einstein]() **(1905)** <br>
+ ────────────── 
+
    * Explanation of the photoelectric effect, which introduced the concept of photons.
 
-   Formula for the photoelectric effect:  
+   Formula for the photoelectric effect:
+   
    $\huge \color{DeepSkyBlue} E_{photon} = h \cdot f = W + K$
 
    Where:  
