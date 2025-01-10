@@ -39,7 +39,9 @@ Feel free to explore, contribute, and share your insights!
 
    **Formula for Fourier Transform:**  
    
-   $\hat{f}(k) = \int_{-\infty}^{\infty} f(x) \, e^{-2\pi i k x} \, dx$ 
+   $\huge \color{DeepSkyBlue} \hat{f}(k) = \int_{-\infty}^{\infty} f(x) \, e^{-2\pi i k x} \, dx$ 
+
+   <br>
 
    **Formula for Inverse Fourier Transform:**  
    
@@ -47,9 +49,9 @@ Feel free to explore, contribute, and share your insights!
 
    Where:  
    
-   - $f(x)$ is the original function in the spatial domain.  
-   - $\hat{f}(k)$ is the transformed function in the frequency domain.  
-   - $x$ represents position, and $k$ represents momentum or frequency.
+   - $large \color{DeepSkyBlue} f(x)$ is the original function in the spatial domain.  
+   - $large \color{DeepSkyBlue} \hat{f}(k)$ is the transformed function in the frequency domain.  
+   - $large \color{DeepSkyBlue} x$ represents position, and $k$ represents momentum or frequency.
 
  **Relevance in Quantum Mechanics and Computing:**  
    - **Quantum Mechanics**: Converts wavefunctions between position and momentum spaces.  
