@@ -27,7 +27,7 @@
 This repository is designed to serve as an educational resource, showcasing the progression of quantum computing, key contributions, and foundational formulas. Contributions and discussions are encouraged to expand on these materials and foster collaboration in the field of quantum computing.
 Feel free to explore, contribute, and share your insights!
 
-
+<br><br>
 
 ## [Timeline of Quantum Computing](): Scientists and Contributions
 
@@ -41,7 +41,8 @@ Feel free to explore, contribute, and share your insights!
 1. **Max Planck (1900)**  
    * Founder of quantum theory by introducing the concept of energy quantization.
 
-   Formula for quantized energy:  
+   Formula for quantized energy:
+   
    $\huge \color{DeepSkyBlue} E = h \cdot f$
 
    Where:  
