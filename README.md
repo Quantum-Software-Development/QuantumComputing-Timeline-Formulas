@@ -38,10 +38,12 @@ Feel free to explore, contribute, and share your insights!
  ────────────── 
 * Developed the mathematical framework for the Fourier Transform, which is foundational in quantum mechanics and quantum computing.  
 
-   **Formula for Fourier Transform:**  
+   **Formula for Fourier Transform:**
+  
    $$\hat{f}(k) = \int_{-\infty}^{\infty} f(x) \, e^{-2\pi i k x} \, dx$$  
 
-   **Formula for Inverse Fourier Transform:**  
+   **Formula for Inverse Fourier Transform:**
+  
    $$f(x) = \int_{-\infty}^{\infty} \hat{f}(k) \, e^{2\pi i k x} \, dk$$  
 
    Where:  
