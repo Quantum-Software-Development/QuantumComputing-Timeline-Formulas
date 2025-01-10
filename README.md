@@ -31,9 +31,6 @@ Feel free to explore, contribute, and share your insights!
 
 <br><br>
 
-## <p align="center">  Early 20th Century – [Foundations of Quantum Mechanics]()
-
-<br>
 
 1- [Joseph Fourier](*) **(1822)**  
    * Developed the mathematical framework for the Fourier Transform, which is foundational in quantum mechanics and quantum computing.  
@@ -56,7 +53,10 @@ Feel free to explore, contribute, and share your insights!
    - **Quantum Mechanics**: Converts wavefunctions between position and momentum spaces.  
    - **Quantum Computing**: Basis for the Quantum Fourier Transform (QFT), essential for algorithms like Shor's factoring algorithm.  
 
-#
+## <p align="center">  Early 20th Century – [Foundations of Quantum Mechanics]()
+
+<br>
+
 
 1. [Max Planck]() **(1900)** <br>
  ────────────── 
