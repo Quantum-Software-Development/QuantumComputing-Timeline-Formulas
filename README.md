@@ -22,7 +22,7 @@
  <br><br>
 
 
-## [About This Repository]()
+## <p align="center" [About This Repository]()
 
 This repository is designed to serve as an educational resource, showcasing the progression of quantum computing, key contributions, and foundational formulas. Contributions and discussions are encouraged to expand on these materials and foster collaboration in the field of quantum computing.
 Feel free to explore, contribute, and share your insights!
