@@ -36,27 +36,24 @@ Feel free to explore, contribute, and share your insights!
 
 1- [Joseph Fourier](*) **(1822)**   <br>
  ────────────── 
-   * Developed the mathematical framework for the Fourier Transform, which is foundational in quantum mechanics and quantum computing.  
+* Developed the mathematical framework for the Fourier Transform, which is foundational in quantum mechanics and quantum computing.  
 
-   Formula for Fourier Transform:
-   
-   $\huge \color{DeepSkyBlue} \hat{f}(k) = \int_{-\infty}^{\infty} f(x) \, e^{-2\pi i k x} \, dx$ 
+   **Formula for Fourier Transform:**  
+   $$\hat{f}(k) = \int_{-\infty}^{\infty} f(x) \, e^{-2\pi i k x} \, dx$$  
 
-   <br>
-
-   Formula for Inverse Fourier Transform:
-   
-   $f(x) = \int_{-\infty}^{\infty} \hat{f}(k) \, e^{2\pi i k x} \, dk$
+   **Formula for Inverse Fourier Transform:**  
+   $$f(x) = \int_{-\infty}^{\infty} \hat{f}(k) \, e^{2\pi i k x} \, dk$$  
 
    Where:  
-    - $large \color{DeepSkyBlue} f(x)$ is the original function in the spatial domain.  
-    - $large \color{DeepSkyBlue} \hat{f}(k)$ is the transformed function in the frequency domain.  
-    - $large \color{DeepSkyBlue} x$ represents position, and $k$ represents momentum or frequency.
+   - $f(x)$ is the original function in the spatial domain.  
+   - $\hat{f}(k)$ is the transformed function in the frequency domain.  
+   - $x$ represents position, and $k$ represents momentum or frequency.  
 
- 
    **Relevance in Quantum Mechanics and Computing:**  
-    - **Quantum Mechanics**: Converts wavefunctions between position and momentum spaces.  
-    - **Quantum Computing**: Basis for the Quantum Fourier Transform (QFT), essential for algorithms like Shor's factoring algorithm.
+   - **Quantum Mechanics**: Converts wavefunctions between position and momentum spaces.  
+   - **Quantum Computing**: Basis for the Quantum Fourier Transform (QFT), essential for algorithms like Shor's factoring algorithm.  
+
+
 
      
 <br><br>
