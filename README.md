@@ -22,8 +22,7 @@
  <br><br>
 
 
-## <p align="center"> [About This Repository]() <br>
- ────────────── 
+## <p align="center"> [About This Repository]()
 
 This repository is designed to serve as an educational resource, showcasing the progression of quantum computing, key contributions, and foundational formulas. Contributions and discussions are encouraged to expand on these materials and foster collaboration in the field of quantum computing.
 Feel free to explore, contribute, and share your insights!
@@ -32,7 +31,8 @@ Feel free to explore, contribute, and share your insights!
 <br><br>
 
 
-1- [Joseph Fourier](*) **(1822)**  
+1- [Joseph Fourier](*) **(1822)**   <br>
+ ────────────── 
    * Developed the mathematical framework for the Fourier Transform, which is foundational in quantum mechanics and quantum computing.  
 
    **Formula for Fourier Transform:**  
