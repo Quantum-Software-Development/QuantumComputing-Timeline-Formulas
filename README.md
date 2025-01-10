@@ -21,11 +21,6 @@
 
  <br><br>
 
-## [Timeline of Quantum Computing](): Scientists and Contributions
-
-<br><br>
-
-
 
 ## [About This Repository]()
 
