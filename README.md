@@ -34,6 +34,15 @@ Feel free to explore, contribute, and share your insights!
 
 <br>
 
+1- [Joseph Fourier](*) **(1822)**  
+   * Developed the mathematical framework for the Fourier Transform, which is foundational in quantum mechanics and quantum computing.  
+
+   **Formula for Fourier Transform:**  
+   
+   $$\hat{f}(k) = \int_{-\infty}^{\infty} f(x) \, e^{-2\pi i k x} \, dx$$  
+
+
+
 
 1. [Max Planck]() **(1900)** <br>
  ────────────── 
