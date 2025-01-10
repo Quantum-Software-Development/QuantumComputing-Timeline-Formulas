@@ -51,7 +51,10 @@ Feel free to explore, contribute, and share your insights!
 
  **Relevance in Quantum Mechanics and Computing:**  
    - **Quantum Mechanics**: Converts wavefunctions between position and momentum spaces.  
-   - **Quantum Computing**: Basis for the Quantum Fourier Transform (QFT), essential for algorithms like Shor's factoring algorithm.  
+   - **Quantum Computing**: Basis for the Quantum Fourier Transform (QFT), essential for algorithms like Shor's factoring algorithm.
+
+     
+<br><br>
 
 ## <p align="center">  Early 20th Century – [Foundations of Quantum Mechanics]()
 
