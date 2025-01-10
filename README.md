@@ -53,18 +53,8 @@ Feel free to explore, contribute, and share your insights!
     - $large \color{DeepSkyBlue} \hat{f}(k)$ is the transformed function in the frequency domain.  
     - $large \color{DeepSkyBlue} x$ represents position, and $k$ represents momentum or frequency.
 
-    ---
-
-    
-   Where:  
-   - $\large \color{DeepSkyBlue} E$ is the energy of the photon.  
-   - $\large \color{DeepSkyBlue} h$ is Planck's constant ($6.626 \times 10^{-34} \, \text{J·s}$).  
-   - $\large \color{DeepSkyBlue} f$ is the radiation frequency.
-
-
-    ---
-
- **Relevance in Quantum Mechanics and Computing:**  
+ 
+   **Relevance in Quantum Mechanics and Computing:**  
     - **Quantum Mechanics**: Converts wavefunctions between position and momentum spaces.  
     - **Quantum Computing**: Basis for the Quantum Fourier Transform (QFT), essential for algorithms like Shor's factoring algorithm.
 
