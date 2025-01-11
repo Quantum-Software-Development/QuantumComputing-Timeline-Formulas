@@ -132,7 +132,7 @@ Feel free to explore, contribute, and share your insights!
   
  #
 
-6. **Werner Heisenberg (1927)**  <br>
+6.[Werner Heisenberg]() **(1927)**  <br>
  ──────────────
 
    * Uncertainty Principle, central to quantum physics.
