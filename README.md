@@ -106,7 +106,8 @@ Feel free to explore, contribute, and share your insights!
  
    * Bohr's atomic model with quantized energy levels.
 
-   Formula for the energy levels of the electron in the hydrogen atom:  
+   Formula for the energy levels of the electron in the hydrogen atom:
+   
    $\huge \color{DeepSkyBlue} E_n = -\frac{13.6 \, \text{eV}}{n^2}$
 
    Where:  
