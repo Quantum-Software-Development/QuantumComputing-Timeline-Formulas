@@ -48,12 +48,14 @@ Feel free to explore, contribute, and share your insights!
 
  <br>
 
-   Where:  
+   [Where]():  
    - $large \color{DeepSkyBlue} f(x)$ is the original function in the spatial domain.  
    - $large \color{DeepSkyBlue} \hat{f}(k)$ is the transformed function in the frequency domain.  
-   - $large \color{DeepSkyBlue} large \color{DeepSkyBlue}x$ represents position, and $k$ represents momentum or frequency.  
+   - $large \color{DeepSkyBlue} large \color{DeepSkyBlue}x$ represents position, and $k$ represents momentum or frequency.
 
-   **Relevance in Quantum Mechanics and Computing:**  
+  <br>
+
+   [**Relevance in Quantum Mechanics and Computing:**]()  
    - **Quantum Mechanics**: Converts wavefunctions between position and momentum spaces.  
    - **Quantum Computing**: Basis for the Quantum Fourier Transform (QFT), essential for algorithms like Shor's factoring algorithm.  
 
