@@ -53,7 +53,7 @@ Feel free to explore, contribute, and share your insights!
    [Where]():  
    - $\large \color{DeepSkyBlue} f(x)$ is the original function in the spatial domain.  
    - $\large \color{DeepSkyBlue} \hat{f}(k)$ is the transformed function in the frequency domain.  
-   - $\large \color{DeepSkyBlue} large \color{DeepSkyBlue}x$ represents position, and $k$ represents momentum or frequency.
+   - $\large \color{DeepSkyBlue} x$ represents position, and $k$ represents momentum or frequency.
 
   <br>
 
