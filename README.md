@@ -116,7 +116,7 @@ Feel free to explore, contribute, and share your insights!
   
 #   
 
-5. **Erwin Schrödinger (1926)**  
+5. [Erwin Schrödinger]() **(1926)**  
    * Schrödinger's equation, the foundation of wave mechanics.
 
    Time-dependent form of Schrödinger's equation:  
