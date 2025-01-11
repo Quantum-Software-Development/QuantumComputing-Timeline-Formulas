@@ -167,7 +167,9 @@ Feel free to explore, contribute, and share your insights!
 
 <br>
 
-8. **John von Neumann (1932)**  
+8. **John von Neumann (1932)**  <br>
+ ──────────────
+
    * Formalized the mathematics of quantum mechanics and introduced operator theory.
 
    Formula for the density matrix in Hilbert space:  
