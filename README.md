@@ -132,7 +132,7 @@ Feel free to explore, contribute, and share your insights!
   
  #
 
-6.[Werner Heisenberg]() **(1927)**  <br>
+6. [Werner Heisenberg]() **(1927)**  <br>
  ──────────────
 
    * Uncertainty Principle, central to quantum physics.
@@ -147,7 +147,9 @@ Feel free to explore, contribute, and share your insights!
   
  #
 
-7. **Paul Dirac (1928)**  
+7. **Paul Dirac (1928)**  <br>
+ ──────────────
+
    * Developed the relativistic theory of the electron and contributed to quantum mechanics.
 
    Dirac equation for relativistic particles:  
