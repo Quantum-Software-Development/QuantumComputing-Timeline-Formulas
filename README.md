@@ -101,7 +101,9 @@ Feel free to explore, contribute, and share your insights!
 
 #
 
-4. **Niels Bohr (1913)**  
+4. [Niels Bohr]() **(1913)** <br>
+ ────────────── 
+ 
    * Bohr's atomic model with quantized energy levels.
 
    Formula for the energy levels of the electron in the hydrogen atom:  
