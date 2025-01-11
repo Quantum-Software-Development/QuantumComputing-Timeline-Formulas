@@ -116,10 +116,13 @@ Feel free to explore, contribute, and share your insights!
   
 #   
 
-5. [Erwin Schrödinger]() **(1926)**  
+5. [Erwin Schrödinger]() **(1926)**  <br>
+ ──────────────
+
    * Schrödinger's equation, the foundation of wave mechanics.
 
-   Time-dependent form of Schrödinger's equation:  
+   Time-dependent form of Schrödinger's equation:
+   
    $\huge \color{DeepSkyBlue} i\hbar \frac{\partial}{\partial t} \psi(r, t) = \hat{H} \psi(r, t)$  
 
    Where:  
