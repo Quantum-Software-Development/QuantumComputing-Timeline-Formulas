@@ -71,7 +71,7 @@ Feel free to explore, contribute, and share your insights!
 <br>
 
 
-1. [Max Planck]() **(1900)** <br>
+2. [Max Planck]() **(1900)** <br>
  ────────────── 
    * Founder of quantum theory by introducing the concept of energy quantization.
 
@@ -86,7 +86,7 @@ Feel free to explore, contribute, and share your insights!
 
 #
   
-2. [Albert Einstein]() **(1905)** <br>
+3. [Albert Einstein]() **(1905)** <br>
  ────────────── 
 
    * Explanation of the photoelectric effect, which introduced the concept of photons.
@@ -101,7 +101,7 @@ Feel free to explore, contribute, and share your insights!
 
 #
 
-3. **Niels Bohr (1913)**  
+4. **Niels Bohr (1913)**  
    * Bohr's atomic model with quantized energy levels.
 
    Formula for the energy levels of the electron in the hydrogen atom:  
@@ -113,7 +113,7 @@ Feel free to explore, contribute, and share your insights!
   
 #   
 
-4. **Erwin Schrödinger (1926)**  
+5. **Erwin Schrödinger (1926)**  
    * Schrödinger's equation, the foundation of wave mechanics.
 
    Time-dependent form of Schrödinger's equation:  
@@ -126,7 +126,7 @@ Feel free to explore, contribute, and share your insights!
   
  #
 
-5. **Werner Heisenberg (1927)**  
+6. **Werner Heisenberg (1927)**  
    * Uncertainty Principle, central to quantum physics.
 
    Formula for the Uncertainty Principle:  
@@ -138,7 +138,7 @@ Feel free to explore, contribute, and share your insights!
   
  #
 
-6. **Paul Dirac (1928)**  
+7. **Paul Dirac (1928)**  
    * Developed the relativistic theory of the electron and contributed to quantum mechanics.
 
    Dirac equation for relativistic particles:  
@@ -155,7 +155,7 @@ Feel free to explore, contribute, and share your insights!
 
 <br>
 
-7. **John von Neumann (1932)**  
+8. **John von Neumann (1932)**  
    * Formalized the mathematics of quantum mechanics and introduced operator theory.
 
    Formula for the density matrix in Hilbert space:  
@@ -168,7 +168,7 @@ Feel free to explore, contribute, and share your insights!
   
 #
 
-8. **Claude Shannon (1948)**  
+9. **Claude Shannon (1948)**  
    * Although Shannon is primarily known for classical information theory, his definition of entropy plays a crucial role in both quantum computing and quantum information theory. Shannon's entropy measures the uncertainty of a random variable, and this concept extends to quantum systems, forming the foundation for quantum information theory.  
 
     Formula for Shannon Entropy (used in quantum information theory):**  
@@ -180,7 +180,7 @@ Feel free to explore, contribute, and share your insights!
   
   #
 
-   9. **Stephen Wiesner (1970)**  
+   10. **Stephen Wiesner (1970)**  
    * Introduced the concepts of [quantum cryptography]() and [quantum money](), making significant contributions to the development of secure communication systems. Wiesner's work laid the groundwork for the field of quantum cryptography.
 
    * **Quantum Money [Quantum Currency]()**
@@ -190,7 +190,7 @@ Feel free to explore, contribute, and share your insights!
 
    #
  
- 10. **Richard Feynman (1981)**  
+ 11. **Richard Feynman (1981)**  
    * Introduced the idea of quantum computers as simulators for physical systems.
 
    Simplified formula for simulating quantum systems:  
@@ -202,7 +202,7 @@ Feel free to explore, contribute, and share your insights!
      
  # 
 
- 11. **Gilles Brassard (1984)**  
+ 12. **Gilles Brassard (1984)**  
    * Co-founder of the [BB84 protocol](), the first functional quantum cryptography system. The BB84 protocol is a [quantum key distribution] (QKD) protocol that allows two parties to [securely exchange cryptographic keys]() over a potentially insecure channel. The security of BB84 relies on the principles of quantum mechanics, particularly quantum superposition and the no-cloning theorem.  
 
    * **BB84 Protocol Formula:**  
@@ -220,7 +220,7 @@ Feel free to explore, contribute, and share your insights!
 
 #
 
-  12. **David Deutsch (1985)**  
+  13. **David Deutsch (1985)**  
    * Proposed the concept of the quantum Turing machine and formulated the first quantum algorithm.
    
    Formulation of Deutsch's Algorithm:  
