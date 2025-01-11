@@ -132,10 +132,13 @@ Feel free to explore, contribute, and share your insights!
   
  #
 
-6. **Werner Heisenberg (1927)**  
+6. **Werner Heisenberg (1927)**  <br>
+ ──────────────
+
    * Uncertainty Principle, central to quantum physics.
 
-   Formula for the Uncertainty Principle:  
+   Formula for the Uncertainty Principle:
+   
    $\huge \color{DeepSkyBlue} \Delta x \cdot \Delta p \geq \frac{\hbar}{2}$
 
    Where:  
