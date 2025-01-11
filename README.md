@@ -147,12 +147,13 @@ Feel free to explore, contribute, and share your insights!
   
  #
 
-7. **Paul Dirac (1928)**  <br>
+7. [Paul Dirac]() **(1928)**  <br>
  ──────────────
 
    * Developed the relativistic theory of the electron and contributed to quantum mechanics.
 
-   Dirac equation for relativistic particles:  
+   Dirac equation for relativistic particles:
+    
    $\huge \color{DeepSkyBlue} (i\hbar \gamma^\mu \partial_\mu - mc)\psi = 0$
 
    Where:  
