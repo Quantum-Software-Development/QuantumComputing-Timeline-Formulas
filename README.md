@@ -224,7 +224,9 @@ Feel free to explore, contribute, and share your insights!
      
  # 
 
- 12. **Gilles Brassard (1984)**  
+ 12. **Gilles Brassard (1984)**  <br>
+ ──────────────
+
    * Co-founder of the [BB84 protocol](), the first functional quantum cryptography system. The BB84 protocol is a [quantum key distribution] (QKD) protocol that allows two parties to [securely exchange cryptographic keys]() over a potentially insecure channel. The security of BB84 relies on the principles of quantum mechanics, particularly quantum superposition and the no-cloning theorem.  
 
    * **BB84 Protocol Formula:**  
