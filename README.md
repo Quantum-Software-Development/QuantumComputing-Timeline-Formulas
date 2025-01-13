@@ -289,7 +289,7 @@ The formula above represents a prominent entangled state known as a **Bell state
 
 This state is an example of **quantum entanglement**. Entanglement is a phenomenon where two particles (or qubits, in the case of quantum computing) are correlated in such a way that the state of one particle (qubit) instantaneously affects the state of the other, regardless of the distance between them.
 
-In quantum cryptography, this state is used to ensure the security of communications because any attempt to intercept the entangled qubits alters their state, which can be detected by the person sending the message.
+In [quantum cryptography](), this state is used to ensure the security of communications because any attempt to intercept the entangled qubits alters their state, which can be detected by the person sending the message.
     
 
 
