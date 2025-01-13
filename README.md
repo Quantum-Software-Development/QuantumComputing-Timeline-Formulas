@@ -268,18 +268,9 @@ Feel free to explore, contribute, and share your insights!
    Formula for entangled states used in encryption:  
    
    $\huge \color{DeepSkyBlue} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)$  
-     
-    
 
 
-
-
-  
-   
-
- 
-
-  
+ The formula presented, $\huge \color{DeepSkyBlue} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)$, describes one of the most well-known entangled states, called a **Bell state** or **maximally entangled state**. This state is fundamental in quantum computing theory and quantum cryptography, as in the case of Artur Ekert's protocol.
 
 
 
