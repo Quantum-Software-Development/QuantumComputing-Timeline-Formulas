@@ -244,7 +244,9 @@ Feel free to explore, contribute, and share your insights!
 
 #
 
-  13. **David Deutsch (1985)**  
+  13. **David Deutsch (1985)**  <br>
+ ──────────────
+
    * Proposed the concept of the quantum Turing machine and formulated the first quantum algorithm.
    
    Formulation of Deutsch's Algorithm:  
