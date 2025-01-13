@@ -210,7 +210,9 @@ Feel free to explore, contribute, and share your insights!
 
    #
  
- 11. **Richard Feynman (1981)**  
+ 11. **Richard Feynman (1981)**  <br>
+ ──────────────
+
    * Introduced the idea of quantum computers as simulators for physical systems.
 
    Simplified formula for simulating quantum systems:  
