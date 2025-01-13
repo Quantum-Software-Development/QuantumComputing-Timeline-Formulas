@@ -272,6 +272,23 @@ Feel free to explore, contribute, and share your insights!
 
  The formula presented, $\huge \color{DeepSkyBlue} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)$, describes one of the most well-known entangled states, called a **Bell state** or **maximally entangled state**. This state is fundamental in quantum computing theory and quantum cryptography, as in the case of Artur Ekert's protocol.
 
+ - **$\huge |\Phi^+\rangle$**: Represents the quantum state vector in Dirac notation (also known as bra-ket notation). The state $|\Phi^+\rangle$ is one of the four Bell states, which are entangled qubit states.
+
+
+
+
+
+  
+   
+
+ 
+
+  
+
+
+
+
+
 
 
 
