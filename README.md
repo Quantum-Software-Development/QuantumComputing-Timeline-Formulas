@@ -198,7 +198,7 @@ Feel free to explore, contribute, and share your insights!
   
   #
 
-   10. **Stephen Wiesner (1970)**  <br>
+   10. [Stephen Wiesner]() **(1970)**  <br>
  ──────────────
 
    * Introduced the concepts of [quantum cryptography]() and [quantum money](), making significant contributions to the development of secure communication systems. Wiesner's work laid the groundwork for the field of quantum cryptography.
