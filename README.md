@@ -265,6 +265,7 @@ Feel free to explore, contribute, and share your insights!
 
 
    Formula for entangled states used in encryption:  
+   
    $\huge \color{DeepSkyBlue} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)$  
      
     
