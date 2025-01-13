@@ -254,6 +254,12 @@ Feel free to explore, contribute, and share your insights!
    * Introduced a quantum encryption protocol based on entanglement.
 
 
+   Formula for entangled states used in encryption:  
+   $\huge \color{DeepSkyBlue} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)$  
+     
+    
+
+
 
 
   
