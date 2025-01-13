@@ -270,13 +270,26 @@ Feel free to explore, contribute, and share your insights!
    $\huge \color{DeepSkyBlue} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)$  
 
 
-The formula above represents a prominent entangled state known as a **Bell state** or **maximally entangled state**, which is essential in quantum computing theory and quantum cryptography, such as in Artur Ekert's protocol.
+
 
  - **$\huge \color{DeepSkyBlue} |\Phi^+\rangle$**: Represents the quantum state vector in Dirac notation (also known as bra-ket notation). The state $\huge \color{DeepSkyBlue} |\Phi^+\rangle$ is one of the four Bell states, which are entangled qubit states.
 
 - **$\huge \color{DeepSkyBlue} \frac{1}{\sqrt{2}}$**: This normalization factor is necessary to ensure that the total probability of measuring the system is 1. In quantum mechanics, the norm of the state vector (the sum of the squares of the probabilities of possible outcomes) must equal 1.
 
+The formula above represents a prominent entangled state known as a **Bell state** or **maximally entangled state**, which is essential in quantum computing theory and quantum cryptography, such as in Artur Ekert's protocol.
 
+
+- **$\large \color{DeepSkyBlue} |\Phi^+\rangle$**: Represents the quantum state vector in Dirac notation (also known as bra-ket notation). The state $|\Phi^+\rangle$ is one of the four Bell states, which are entangled qubit states.
+
+- **$\frac{1}{\sqrt{2}}$**: This normalization factor is necessary to ensure that the total probability of measuring the system is 1. In quantum mechanics, the norm of the state vector (the sum of the squares of the probabilities of possible outcomes) must equal 1.
+
+- **$|00\rangle$ and $|11\rangle$**: These are the states of the two qubits. The symbol $|00\rangle$ denotes both qubits in the "0" state, and $|11\rangle$ denotes both qubits in the "1" state.
+
+- **$+$**: The sum between $|00\rangle$ and $|11\rangle$ indicates that the system is in a superposition of these two states. The Bell state is not a classical state where the system would be either 00 or 11, but rather a superposition of both. This means that when the qubits are measured, they will both have the same value (either both 0 or both 1), but the measurement is probabilistic until the observation occurs.
+
+This state is an example of **quantum entanglement**. Entanglement is a phenomenon where two particles (or qubits, in the case of quantum computing) are correlated in such a way that the state of one particle (qubit) instantaneously affects the state of the other, regardless of the distance between them.
+
+In quantum cryptography, this state is used to ensure the security of communications because any attempt to intercept the entangled qubits alters their state, which can be detected by the person sending the message.
     
 
 
