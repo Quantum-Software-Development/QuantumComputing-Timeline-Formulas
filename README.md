@@ -258,7 +258,9 @@ Feel free to explore, contribute, and share your insights!
 
    ## 1990s and 2000s – Consolidation of Quantum Computing
 
-   14. **Artur Ekert (1991)**  
+   14. **Artur Ekert (1991)**  <br>
+ ──────────────
+
    * Introduced a quantum encryption protocol based on entanglement.
 
 
