@@ -246,9 +246,10 @@ Feel free to explore, contribute, and share your insights!
 
    Where:  
    - $\large \color{DeepSkyBlue} |q\rangle$ is the superposed state of a qubit.  
-   
-     
-    
+
+
+   ## 1990s and 2000s – Consolidation of Quantum Computing
+
 
   
    
