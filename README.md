@@ -30,36 +30,28 @@ Feel free to explore, contribute, and share your insights!
 
 <br><br>
 
-## <p align="center"> Mathematical Foundations for [Quantum Mechanics and Quantum Computation]()
+## <p align="center"> [Predecessors of Quantum Mechanics](): Key Mathematicians and Their Contributions
 
 <br>
 
-1- [Joseph Fourier](*) **(1822)**   <br>
- ────────────── 
-* Developed the mathematical framework for the Fourier Transform, which is foundational in quantum mechanics and quantum computing.  
 
- - Formula for Fourier Transform:
-  
-  $\huge \color{DeepSkyBlue} \hat{f}(k) = \int_{-\infty}^{\infty} f(x) \, e^{-2\pi i k x} \, dx$
+1. **Leonhard Euler (1748)**  <br>  
+──────────────  
 
-<br>
+   * Developed the [Euler's Formula](), which links exponential functions to trigonometric functions. It is fundamental in wave mechanics and quantum state representation.  
+   * **Euler's Formula:**  
+     $\huge \color{DeepSkyBlue} e^{i\theta} = \cos(\theta) + i\sin(\theta)$  
 
-  - Formula for [Inverse]() Fourier Transform:
-  
-   $\huge \color{DeepSkyBlue} f(x) = \int_{-\infty}^{\infty} \hat{f}(k) \, e^{2\pi i k x} \, dk$
+     Where:  
+     - **\( e \)**: Base of the natural logarithm.  
+     - **\( \theta \)**: Phase angle.  
+     - **\( i \)**: Imaginary unit.  
 
- <br>
+     Euler's formula is essential for describing quantum wavefunctions and visualizing oscillations in the complex plane.
 
-   [Where]():  
-   - $\large \color{DeepSkyBlue} f(x)$ is the original function in the spatial domain.  
-   - $\large \color{DeepSkyBlue} \hat{f}(k)$ is the transformed function in the frequency domain.  
-   - $\large \color{DeepSkyBlue} x$ represents position, and $k$ represents momentum or frequency.
+#
 
-  <br>
 
-   [**Relevance in Quantum Mechanics and Computing:**]()  
-   - **Quantum Mechanics**: Converts wavefunctions between position and momentum spaces.  
-   - **Quantum Computing**: Basis for the Quantum Fourier Transform (QFT), essential for algorithms like Shor's factoring algorithm.  
 
 
 
