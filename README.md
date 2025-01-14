@@ -198,6 +198,16 @@ Feel free to explore, contribute, and share your insights!
   
   #
 
+
+10. [John S. Bell]() **  (1964)**  
+* Introduced Bell's theorem, which provided a way to test the principles of quantum mechanics against local realism using experimentally verifiable inequalities. Bell's theorem demonstrated that no local hidden variable theory can reproduce all the predictions of quantum mechanics.  
+
+
+
+
+
+ #
+
    10. [Stephen Wiesner]() **(1970)**  <br>
  ──────────────
 
