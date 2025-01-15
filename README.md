@@ -31,12 +31,13 @@ Feel free to explore, contribute, and share your insights!
 
 ## Table of Contents
 
-#### I- [Predecessors of Quantum Mechanics – Key Mathematicians and Their Contributions](#predecessors-of-quantum-mechanics)
+
+## [Predecessors of Quantum Mechanics](#predecessors-of-quantum-mechanics) – Key Mathematicians and Their Contributions
 1. **Leonhard Euler (1748)**  
 2. **Carl Friedrich Gauss (1809)**  
 3. **Joseph Fourier (1822)**  
 4. **Srinivasa Ramanujan (1910–1920)**  
-5. **Satyendra Nath Bose (1924)**
+5. **Satyendra Nath Bose (1924)**  
 #### II- [Early 20th Century](#foundations-of-quantum-mechanics) – Foundations of Quantum Mechanics 
 6. **Max Planck (1900)**  
 7. **Albert Einstein (1905)**  
