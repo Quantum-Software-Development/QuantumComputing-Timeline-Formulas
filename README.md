@@ -80,11 +80,10 @@ Feel free to explore, contribute, and share your insights!
 
 ## I. Predecessors of Quantum Mechanics – Key Mathematicians and Their Contributions
 
-
 <br>
 
 
-1. **Leonhard Euler (1748)**  <br>  
+### 1. Leonhard Euler (1748)*  <br>  
 ──────────────  
 
    * Developed the [Euler's Formula](), which links exponential functions to trigonometric functions. It is fundamental in wave mechanics and quantum state representation.  
