@@ -85,12 +85,10 @@ Feel free to explore, contribute, and share your insights!
   - [Quantum Decoherence](#quantum-decoherence)  
   - [Qutrits and Qudits](#qutrits-and-qudits)  
 
-
-
-   
+  
  <br><br>
 
-## [**Predecessors of Quantum Mechanics – Key Mathematicians and Their Contributions**]()
+## Predecessors of Quantum Mechanics
 
 ### Leonhard Euler (1748)
 
@@ -99,7 +97,7 @@ Leonhard Euler, one of the most significant mathematicians in history, contribut
    * Developed the [Euler's Formula](), which links exponential functions to trigonometric functions. It is fundamental in wave mechanics and quantum state representation.  
    
    * **Euler's Formula:**
-   * 
+     
      $\huge \color{DeepSkyBlue} e^{i\theta} = \cos(\theta) + i\sin(\theta)$  
 
      Where:  
