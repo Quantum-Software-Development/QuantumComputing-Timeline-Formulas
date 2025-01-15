@@ -31,41 +31,44 @@ Feel free to explore, contribute, and share your insights!
 
 ## Table of Contents
 
-
 #### I. [Predecessors of Quantum Mechanics](#predecessors-of-quantum-mechanics) – Key Mathematicians and Their Contributions
 1. [**Leonhard Euler (1748)**](#leonhard-euler-1748)  
-2. **Carl Friedrich Gauss (1809)**  
-3. **Joseph Fourier (1822)**  
-4. **Srinivasa Ramanujan (1910–1920)**  
-5. **Satyendra Nath Bose (1924)**  
-1. **Leonhard Euler (1748)**  
-2. **Carl Friedrich Gauss (1809)**  
-3. **Joseph Fourier (1822)**  
-4. **Srinivasa Ramanujan (1910–1920)**  
-5. **Satyendra Nath Bose (1924)**
-#### II. [Early 20th Century – Foundations of Quantum Mechanics](#early-20th-century-foundations-of-quantum-mechanics)
-6. **Max Planck (1900)**  
-7. **Albert Einstein (1905)**  
-8. **Niels Bohr (1913)**  
-9. **Erwin Schrödinger (1926)**  
-10. **Werner Heisenberg (1927)**  
-11. **Paul Dirac (1928)**  
-#### III. Mid-20th Century – [Foundation for Quantum Information](#foundation-for-quantum-information)  
-12. **John von Neumann (1932)**  
-13. **Claude Shannon (1948)**  
-14. **John S. Bell (1964)**  
-15. **Stephen Wiesner (1970)**  
-16. **Richard Feynman (1981)**  
-17. **Gilles Brassard (1984)**  
-18. **David Deutsch (1985)**  
-#### IV. 1990s and 2000s – [Consolidation of Quantum Computing](#consolidation-of-quantum-computing)
-19. **Artur Ekert (1991)**  
-20. **Charles Bennett (1993)**  
-21. **Peter Shor (1994)**  
-22. **Lov Grover (1996)**  
-23. **Seth Lloyd (1996)**  
-24. **Alexei Kitaev (1997)**  
-25. **William Wootters (1998)**  
+2. [**Carl Friedrich Gauss (1809)**](#carl-friedrich-gauss-1809)  
+3. [**Joseph Fourier (1822)**](#joseph-fourier-1822)  
+4. [**Srinivasa Ramanujan (1910–1920)**](#srinivasa-ramanujan-1910-1920)  
+5. [**Satyendra Nath Bose (1924)**](#satyendra-nath-bose-1924)  
+
+#### II. Early 20th Century – [Foundations of Quantum Mechanics](#early-20th-century-foundations-of-quantum-mechanics)
+6. [**Max Planck (1900)**](#max-planck-1900)  
+7. [**Albert Einstein (1905)**](#albert-einstein-1905)  
+8. [**Niels Bohr (1913)**](#niels-bohr-1913)  
+9. [**Erwin Schrödinger (1926)**](#erwin-schroedinger-1926)  
+10. [**Werner Heisenberg (1927)**](#werner-heisenberg-1927)  
+11. [**Paul Dirac (1928)**](#paul-dirac-1928)  
+
+#### III. Mid-20th Century – [Foundation for Quantum Information](#mid-20th-century-foundation-for-quantum-information)
+12. [**John von Neumann (1932)**](#john-von-neumann-1932)  
+13. [**Claude Shannon (1948)**](#claude-shannon-1948)  
+14. [**John S. Bell (1964)**](#john-s-bell-1964)  
+15. [**Stephen Wiesner (1970)**](#stephen-wiesner-1970)  
+16. [**Richard Feynman (1981)**](#richard-feynman-1981)  
+17. [**Gilles Brassard (1984)**](#gilles-brassard-1984)  
+18. [**David Deutsch (1985)**](#david-deutsch-1985)  
+
+#### IV. 1990s and 2000s – [Consolidation of Quantum Computing](#1990s-and-2000s-consolidation-of-quantum-computing)
+19. [**Artur Ekert (1991)**](#artur-ekert-1991)  
+20. [**Charles Bennett (1993)**](#charles-bennett-1993)  
+21. [**Peter Shor (1994)**](#peter-shor-1994)  
+22. [**Lov Grover (1996)**](#lov-grover-1996)  
+23. [**Seth Lloyd (1996)**](#seth-lloyd-1996)  
+24. [**Alexei Kitaev (1997)**](#alexei-kitaev-1997)  
+25. [**William Wootters (1998)**](#william-wootters-1998)  
+
+#### V. 2010s and 2020s – [The Era of Practical Quantum Computing](#2010s-and-2020s-the-era-of-practical-quantum-computing)
+26. [**Scott Aaronson (2010–present)**](#scott-aaronson-2010-present)  
+27. [**John Preskill (2012)**](#john-preskill-2012)  
+28. [**Alain Aspect (2022)**](#alain-aspect-2022)  
+29. [**Anton Zeilinger (2022)**](#anton-zeilinger-2022)  
 
 
 
