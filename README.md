@@ -31,7 +31,9 @@ Feel free to explore, contribute, and share your insights!
 
 ## Table of Contents
 
-#### I. [Predecessors of Quantum Mechanics](#predecessors-of-quantum-mechanics) – Key Mathematicians and Their Contributions
+#### Table of Contents
+
+#### I. [Predecessors of Quantum Mechanics – Key Mathematicians and Their Contributions](#predecessors-of-quantum-mechanics-key-mathematicians-and-their-contributions)
 1. [**Leonhard Euler (1748)**](#leonhard-euler-1748)  
 2. [**Carl Friedrich Gauss (1809)**](#carl-friedrich-gauss-1809)  
 3. [**Joseph Fourier (1822)**](#joseph-fourier-1822)  
@@ -85,6 +87,7 @@ Feel free to explore, contribute, and share your insights!
 1. [**Quantum Interference**](#quantum-interference)  
 2. [**Quantum Decoherence**](#quantum-decoherence)  
 3. [**Multiple Quantum States (Qutrits and Qudits)**](#multiple-quantum-states-qutrits-and-qudits)
+
 
    
  <br><br>
