@@ -89,7 +89,7 @@ Feel free to explore, contribute, and share your insights!
 3. [**Multiple Quantum States (Qutrits and Qudits)**](#multiple-quantum-states-qutrits-and-qudits)
 
    
-<b>
+ <br><br>
 
 ## I. [Predecessors of Quantum Mechanics](#predecessors-of-quantum-mechanics) – Key Mathematicians and Their Contributions
 
