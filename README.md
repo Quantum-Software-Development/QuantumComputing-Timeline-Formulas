@@ -73,7 +73,8 @@ Feel free to explore, contribute, and share your insights!
 
 <br><br>
 
-## [Predecessors of Quantum Mechanics]() – Key Mathematicians and Their Contributions
+## I. Predecessors of Quantum Mechanics – Key Mathematicians and Their Contributions
+
 
 <br>
 
