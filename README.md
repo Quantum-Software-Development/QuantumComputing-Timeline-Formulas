@@ -70,6 +70,22 @@ Feel free to explore, contribute, and share your insights!
 28. [**Alain Aspect (2022)**](#alain-aspect-2022)  
 29. [**Anton Zeilinger (2022)**](#anton-zeilinger-2022)  
 
+#### VI. Current Scientists – [Pioneers of Modern Quantum Computing](#current-scientists-pioneers-of-modern-quantum-computing)
+30. [**Umesh Vazirani (present)**](#umesh-vazirani-present)  
+31. [**Michelle Simmons (present)**](#michelle-simmons-present)  
+32. [**Guglielmo Mazzola (2020–present)**](#guglielmo-mazzola-2020-present)  
+
+#### VII. [Key Concepts and Formulas in Quantum Computing](#key-concepts-and-formulas-in-quantum-computing)
+1. [**Superposition**](#superposition)  
+2. [**Entanglement**](#entanglement)  
+3. [**Quantum Gates**](#quantum-gates)  
+4. [**Quantum Measurement**](#quantum-measurement)  
+
+#### VIII. [Additional Relevant Concepts in Quantum Computing](#additional-relevant-concepts-in-quantum-computing)
+1. [**Quantum Interference**](#quantum-interference)  
+2. [**Quantum Decoherence**](#quantum-decoherence)  
+3. [**Multiple Quantum States (Qutrits and Qudits)**](#multiple-quantum-states-qutrits-and-qudits)
+This setup includes clickable links for each section and subsection, allowing for easy navigation between different parts of your content.
 
 
 
