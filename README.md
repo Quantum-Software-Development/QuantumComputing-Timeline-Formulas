@@ -95,9 +95,10 @@ VIII. [Additional Relevant Concepts in Quantum Computing](#additional-relevant-c
    
  <br><br>
 
-## Predecessors of Quantum Mechanics – Key Mathematicians and Their Contributions
+## [**Predecessors of Quantum Mechanics – Key Mathematicians and Their Contributions**]()
 
-### 1. [Leonhard Euler](#leonhard-euler-1748) (1748)
+### Leonhard Euler (1748)
+
 Leonhard Euler, one of the most significant mathematicians in history, contributed foundational mathematical principles that would later support the development of quantum mechanics. His work in functions and complex numbers laid the groundwork for modern physics.
 
    * Developed the [Euler's Formula](), which links exponential functions to trigonometric functions. It is fundamental in wave mechanics and quantum state representation.  
