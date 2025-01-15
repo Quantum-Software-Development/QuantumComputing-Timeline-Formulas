@@ -44,7 +44,7 @@ Feel free to explore, contribute, and share your insights!
 9. **Erwin Schrödinger (1926)**  
 10. **Werner Heisenberg (1927)**  
 11. **Paul Dirac (1928)*
-#### [Mid-20th Century](#foundation-for-quantum-information)  – Foundation for Quantum Information  
+#### III- [Mid-20th Century](#foundation-for-quantum-information)  – Foundation for Quantum Information  
 12. **John von Neumann (1932)**  
 13. **Claude Shannon (1948)**  
 14. **John S. Bell (1964)**  
