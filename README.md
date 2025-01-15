@@ -27,6 +27,26 @@
 This repository is designed to serve as an educational resource, showcasing the progression of quantum computing, key contributions, and foundational formulas. Contributions and discussions are encouraged to expand on these materials and foster collaboration in the field of quantum computing.
 Feel free to explore, contribute, and share your insights!
 
+#
+
+# Table of Contents
+
+## [Predecessors of Quantum Mechanics](#predecessors-of-quantum-mechanics) – Key Mathematicians and Their Contributions
+1. **Leonhard Euler (1748)**  
+2. **Carl Friedrich Gauss (1809)**  
+3. **Joseph Fourier (1822)**  
+4. **Srinivasa Ramanujan (1910–1920)**  
+5. **Satyendra Nath Bose (1924)** 
+
+
+
+
+
+
+
+
+
+
 
 <br><br>
 
@@ -49,7 +69,7 @@ Feel free to explore, contribute, and share your insights!
 
      Euler's formula is essential for describing quantum wavefunctions and visualizing oscillations in the complex plane.
 
-#
+----cont--
 
 
 
