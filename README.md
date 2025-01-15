@@ -85,9 +85,6 @@ Feel free to explore, contribute, and share your insights!
 1. [**Quantum Interference**](#quantum-interference)  
 2. [**Quantum Decoherence**](#quantum-decoherence)  
 3. [**Multiple Quantum States (Qutrits and Qudits)**](#multiple-quantum-states-qutrits-and-qudits)
-This setup includes clickable links for each section and subsection, allowing for easy navigation between different parts of your content.
-
-
 
 
 
