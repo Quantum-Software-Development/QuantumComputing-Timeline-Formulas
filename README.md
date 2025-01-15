@@ -32,7 +32,7 @@ Feel free to explore, contribute, and share your insights!
 ## Table of Contents
 
 
-#### I- [Predecessors of Quantum Mechanics](#predecessors-of-quantum-mechanics) – Key Mathematicians and Their Contributions
+#### I- [Predecessors of Quantum Mechanics](##predecessors-of-quantum-mechanics) – Key Mathematicians and Their Contributions
 1. **Leonhard Euler (1748)**  
 2. **Carl Friedrich Gauss (1809)**  
 3. **Joseph Fourier (1822)**  
@@ -52,7 +52,15 @@ Feel free to explore, contribute, and share your insights!
 15. **Stephen Wiesner (1970)**  
 16. **Richard Feynman (1981)**  
 17. **Gilles Brassard (1984)**  
-18. **David Deutsch (1985)**  
+18. **David Deutsch (1985)**
+#### 1990s and 2000s – [Consolidation of Quantum Computing](#consolidation-of-quantum-computing)
+19. **Artur Ekert (1991)**  
+20. **Charles Bennett (1993)**  
+21. **Peter Shor (1994)**  
+22. **Lov Grover (1996)**  
+23. **Seth Lloyd (1996)**  
+24. **Alexei Kitaev (1997)**  
+25. **William Wootters (1998)**  
 
 
 
