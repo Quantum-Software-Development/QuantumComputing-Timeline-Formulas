@@ -32,28 +32,33 @@ Feel free to explore, contribute, and share your insights!
 ## Table of Contents
 
 
-## [Predecessors of Quantum Mechanics](#predecessors-of-quantum-mechanics) – Key Mathematicians and Their Contributions
+#### I. [Predecessors of Quantum Mechanics](#predecessors-of-quantum-mechanics) – Key Mathematicians and Their Contributions
 1. **Leonhard Euler (1748)**  
 2. **Carl Friedrich Gauss (1809)**  
 3. **Joseph Fourier (1822)**  
 4. **Srinivasa Ramanujan (1910–1920)**  
 5. **Satyendra Nath Bose (1924)**  
-#### II- [Early 20th Century](#foundations-of-quantum-mechanics) – Foundations of Quantum Mechanics 
+1. **Leonhard Euler (1748)**  
+2. **Carl Friedrich Gauss (1809)**  
+3. **Joseph Fourier (1822)**  
+4. **Srinivasa Ramanujan (1910–1920)**  
+5. **Satyendra Nath Bose (1924)**  
+#### II. Early 20th Century – [Foundations of Quantum Mechanics](#foundations-of-quantum-mechanics)
 6. **Max Planck (1900)**  
 7. **Albert Einstein (1905)**  
 8. **Niels Bohr (1913)**  
 9. **Erwin Schrödinger (1926)**  
 10. **Werner Heisenberg (1927)**  
-11. **Paul Dirac (1928)*
-#### III- [Mid-20th Century](#foundation-for-quantum-information)  – Foundation for Quantum Information  
+11. **Paul Dirac (1928)**  
+#### III. Mid-20th Century – [Foundation for Quantum Information](#foundation-for-quantum-information)  
 12. **John von Neumann (1932)**  
 13. **Claude Shannon (1948)**  
 14. **John S. Bell (1964)**  
 15. **Stephen Wiesner (1970)**  
 16. **Richard Feynman (1981)**  
 17. **Gilles Brassard (1984)**  
-18. **David Deutsch (1985)**
-#### 1990s and 2000s – [Consolidation of Quantum Computing](#consolidation-of-quantum-computing)
+18. **David Deutsch (1985)**  
+#### IV. 1990s and 2000s – [Consolidation of Quantum Computing](#consolidation-of-quantum-computing)
 19. **Artur Ekert (1991)**  
 20. **Charles Bennett (1993)**  
 21. **Peter Shor (1994)**  
