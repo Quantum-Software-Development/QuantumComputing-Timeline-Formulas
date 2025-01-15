@@ -38,7 +38,7 @@ I. [Predecessors of Quantum Mechanics – Key Mathematicians and Their Contribut
 4. [**Srinivasa Ramanujan (1910–1920)**](#srinivasa-ramanujan-1910-1920)  
 5. [**Satyendra Nath Bose (1924)**](#satyendra-nath-bose-1924)  
 
-II.[Early 20th Century – Foundations of Quantum Mechanics](#early-20th-century-foundations-of-quantum-mechanics)
+II. [Early 20th Century – Foundations of Quantum Mechanics](#early-20th-century-foundations-of-quantum-mechanics)
 6. [**Max Planck (1900)**](#max-planck-1900)  
 7. [**Albert Einstein (1905)**](#albert-einstein-1905)  
 8. [**Niels Bohr (1913)**](#niels-bohr-1913)  
