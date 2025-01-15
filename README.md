@@ -36,7 +36,14 @@ Feel free to explore, contribute, and share your insights!
 2. **Carl Friedrich Gauss (1809)**  
 3. **Joseph Fourier (1822)**  
 4. **Srinivasa Ramanujan (1910–1920)**  
-5. **Satyendra Nath Bose (1924)** 
+5. **Satyendra Nath Bose (1924)**
+#### [Early 20th Century]() – Foundations of Quantum Mechanics (#foundations-of-quantum-mechanics)
+6. **Max Planck (1900)**  
+7. **Albert Einstein (1905)**  
+8. **Niels Bohr (1913)**  
+9. **Erwin Schrödinger (1926)**  
+10. **Werner Heisenberg (1927)**  
+11. **Paul Dirac (1928)*
 
 
 
