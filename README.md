@@ -87,25 +87,18 @@ Feel free to explore, contribute, and share your insights!
 3. [**Multiple Quantum States (Qutrits and Qudits)**](#multiple-quantum-states-qutrits-and-qudits)
 
 
-
-
-
-
-
 <br><br>
 
 ## I. Predecessors of Quantum Mechanics – Key Mathematicians and Their Contributions
 
-<br>
-
-
 ### 1. Leonhard Euler (1748)  
 
-<br>  
-──────────────  
+Leonhard Euler, one of the most significant mathematicians in history, contributed foundational mathematical principles that would later support the development of quantum mechanics. His work in functions and complex numbers laid the groundwork for modern physics.
 
    * Developed the [Euler's Formula](), which links exponential functions to trigonometric functions. It is fundamental in wave mechanics and quantum state representation.  
-   * **Euler's Formula:**  
+   
+   * **Euler's Formula:**
+   * 
      $\huge \color{DeepSkyBlue} e^{i\theta} = \cos(\theta) + i\sin(\theta)$  
 
      Where:  
