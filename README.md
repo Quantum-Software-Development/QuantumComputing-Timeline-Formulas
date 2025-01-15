@@ -90,7 +90,7 @@ Feel free to explore, contribute, and share your insights!
    
  <br><br>
 
-## I. [Predecessors of Quantum Mechanics](#predecessors-of-quantum-mechanics) – Key Mathematicians and Their Contributions
+## I. [Predecessors of Quantum Mechanics – Key Mathematicians and Their Contributions]()
 
 ### 1. [Leonhard Euler](#leonhard-euler-1748) (1748)
 Leonhard Euler, one of the most significant mathematicians in history, contributed foundational mathematical principles that would later support the development of quantum mechanics. His work in functions and complex numbers laid the groundwork for modern physics.
