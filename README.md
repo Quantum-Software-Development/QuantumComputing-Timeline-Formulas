@@ -31,14 +31,14 @@ Feel free to explore, contribute, and share your insights!
 
 ## Table of Contents
 
-#### I. [Predecessors of Quantum Mechanics – Key Mathematicians and Their Contributions](#predecessors-of-quantum-mechanics-key-mathematicians-and-their-contributions)
+I. [Predecessors of Quantum Mechanics – Key Mathematicians and Their Contributions](#predecessors-of-quantum-mechanics-key-mathematicians-and-their-contributions)
 1. [**Leonhard Euler (1748)**](#leonhard-euler-1748)  
 2. [**Carl Friedrich Gauss (1809)**](#carl-friedrich-gauss-1809)  
 3. [**Joseph Fourier (1822)**](#joseph-fourier-1822)  
 4. [**Srinivasa Ramanujan (1910–1920)**](#srinivasa-ramanujan-1910-1920)  
 5. [**Satyendra Nath Bose (1924)**](#satyendra-nath-bose-1924)  
 
-#### II. Early 20th Century – [Foundations of Quantum Mechanics](#early-20th-century-foundations-of-quantum-mechanics)
+II.[Early 20th Century – Foundations of Quantum Mechanics](#early-20th-century-foundations-of-quantum-mechanics)
 6. [**Max Planck (1900)**](#max-planck-1900)  
 7. [**Albert Einstein (1905)**](#albert-einstein-1905)  
 8. [**Niels Bohr (1913)**](#niels-bohr-1913)  
@@ -46,7 +46,7 @@ Feel free to explore, contribute, and share your insights!
 10. [**Werner Heisenberg (1927)**](#werner-heisenberg-1927)  
 11. [**Paul Dirac (1928)**](#paul-dirac-1928)  
 
-#### III. Mid-20th Century – [Foundation for Quantum Information](#mid-20th-century-foundation-for-quantum-information)
+III. [Mid-20th Century – Foundation for Quantum Information](#mid-20th-century-foundation-for-quantum-information)
 12. [**John von Neumann (1932)**](#john-von-neumann-1932)  
 13. [**Claude Shannon (1948)**](#claude-shannon-1948)  
 14. [**John S. Bell (1964)**](#john-s-bell-1964)  
@@ -55,7 +55,7 @@ Feel free to explore, contribute, and share your insights!
 17. [**Gilles Brassard (1984)**](#gilles-brassard-1984)  
 18. [**David Deutsch (1985)**](#david-deutsch-1985)  
 
-#### IV. 1990s and 2000s – [Consolidation of Quantum Computing](#1990s-and-2000s-consolidation-of-quantum-computing)
+IV. [1990s and 2000s – Consolidation of Quantum Computing](#1990s-and-2000s-consolidation-of-quantum-computing)
 19. [**Artur Ekert (1991)**](#artur-ekert-1991)  
 20. [**Charles Bennett (1993)**](#charles-bennett-1993)  
 21. [**Peter Shor (1994)**](#peter-shor-1994)  
@@ -64,24 +64,24 @@ Feel free to explore, contribute, and share your insights!
 24. [**Alexei Kitaev (1997)**](#alexei-kitaev-1997)  
 25. [**William Wootters (1998)**](#william-wootters-1998)  
 
-#### V. 2010s and 2020s – [The Era of Practical Quantum Computing](#2010s-and-2020s-the-era-of-practical-quantum-computing)
+V. [2010s and 2020s – The Era of Practical Quantum Computing](#2010s-and-2020s-the-era-of-practical-quantum-computing)
 26. [**Scott Aaronson (2010–present)**](#scott-aaronson-2010-present)  
 27. [**John Preskill (2012)**](#john-preskill-2012)  
 28. [**Alain Aspect (2022)**](#alain-aspect-2022)  
 29. [**Anton Zeilinger (2022)**](#anton-zeilinger-2022)  
 
-#### VI. Current Scientists – [Pioneers of Modern Quantum Computing](#current-scientists-pioneers-of-modern-quantum-computing)
+VI. [Current Scientists – Pioneers of Modern Quantum Computing](#current-scientists-pioneers-of-modern-quantum-computing)
 30. [**Umesh Vazirani (present)**](#umesh-vazirani-present)  
 31. [**Michelle Simmons (present)**](#michelle-simmons-present)  
 32. [**Guglielmo Mazzola (2020–present)**](#guglielmo-mazzola-2020-present)  
 
-#### VII. [Key Concepts and Formulas in Quantum Computing](#key-concepts-and-formulas-in-quantum-computing)
+VII. [Key Concepts and Formulas in Quantum Computing](#key-concepts-and-formulas-in-quantum-computing)
 1. [**Superposition**](#superposition)  
 2. [**Entanglement**](#entanglement)  
 3. [**Quantum Gates**](#quantum-gates)  
 4. [**Quantum Measurement**](#quantum-measurement)  
 
-#### VIII. [Additional Relevant Concepts in Quantum Computing](#additional-relevant-concepts-in-quantum-computing)
+VIII. [Additional Relevant Concepts in Quantum Computing](#additional-relevant-concepts-in-quantum-computing)
 1. [**Quantum Interference**](#quantum-interference)  
 2. [**Quantum Decoherence**](#quantum-decoherence)  
 3. [**Multiple Quantum States (Qutrits and Qudits)**](#multiple-quantum-states-qutrits-and-qudits)
