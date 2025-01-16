@@ -98,7 +98,8 @@ Leonhard Euler, one of the most significant mathematicians in history, contribut
    
    * **Euler's Formula:**
      
-     $\huge \color{DeepSkyBlue} e^{i\theta} = \cos(\theta) + i\sin(\theta)$  
+     $\huge \color{DeepSkyBlue} e^{i\theta} = \cos(\theta) + i\sin(\theta)$
+
 
      Where:  
      - $\large \color{DeepSkyBlue} \( e \)$: Base of the natural logarithm.  
@@ -118,6 +119,8 @@ Carl Friedrich Gauss was pivotal in developing the mathematical framework used i
    * **Gaussian Distribution Formula:**
      
      $\huge \color{DeepSkyBlue} f(x) = \frac{1}{\sqrt{2\pi\sigma^2}} e^{-\frac{(x-\mu)^2}{2\sigma^2}}$
+
+     <br>
 
       Where:  
      - $\large \color{DeepSkyBlue}\( \mu \)$: Mean of the distribution.  
@@ -143,6 +146,8 @@ Joseph Fourier’s development of Fourier analysis allowed quantum mechanics to 
   - Formula for [Inverse]() Fourier Transform:
   
    $\huge \color{DeepSkyBlue} f(x) = \int_{-\infty}^{\infty} \hat{f}(k) \, e^{2\pi i k x} \, dk$
+
+   <br>
 
    [Where]():  
    - $\large \color{DeepSkyBlue} f(x)$ is the original function in the spatial domain.  
