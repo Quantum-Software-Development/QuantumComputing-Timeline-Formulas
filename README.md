@@ -96,12 +96,12 @@ Leonhard Euler, one of the most significant mathematicians in history, contribut
 
    * Developed the [Euler's Formula](), which links exponential functions to trigonometric functions. It is fundamental in wave mechanics and quantum state representation.  
    
-  ###  * **Euler's Formula:**
+   ### **Euler's Formula:**
      
-     $\huge \color{DeepSkyBlue} e^{i\theta} = \cos(\theta) + i\sin(\theta)$
+   $\huge \color{DeepSkyBlue} e^{i\theta} = \cos(\theta) + i\sin(\theta)$
 
 
-     Where:  
+   Where:  
      - $\large \color{DeepSkyBlue} \( e \)$: Base of the natural logarithm.  
      - $\large \color{DeepSkyBlue} \( \theta \)$: Phase angle.  
      - $\large \color{DeepSkyBlue} \( i \)$: Imaginary unit.  
