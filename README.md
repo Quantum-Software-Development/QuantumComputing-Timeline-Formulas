@@ -116,13 +116,13 @@ Carl Friedrich Gauss was pivotal in developing the mathematical framework used i
 
    * Introduced the [Gaussian Distribution](), which describes random variables and noise in quantum systems.  
   
-   * **Gaussian Distribution Formula:**
+   ### ***Gaussian Distribution Formula:***
      
-     $\huge \color{DeepSkyBlue} f(x) = \frac{1}{\sqrt{2\pi\sigma^2}} e^{-\frac{(x-\mu)^2}{2\sigma^2}}$
+   $\huge \color{DeepSkyBlue} f(x) = \frac{1}{\sqrt{2\pi\sigma^2}} e^{-\frac{(x-\mu)^2}{2\sigma^2}}$
 
-     <br>
+   <br>
 
-      Where:  
+   Where:  
      - $\large \color{DeepSkyBlue}\( \mu \)$: Mean of the distribution.  
      - $\large \color{DeepSkyBlue} \( \sigma \)$: Standard deviation.  
      - $\large \color{DeepSkyBlue} \( x \)$: Random variable.  
