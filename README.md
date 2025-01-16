@@ -128,7 +128,7 @@ Carl Friedrich Gauss was pivotal in developing the mathematical framework used i
 
 #
 
-### 3. [Joseph Fourier](#joseph-fourier) (1822)  <br>  ──────────────
+### 3. [Joseph Fourier]() (1822)  <br>  ──────────────
 
 Joseph Fourier’s development of Fourier analysis allowed quantum mechanics to describe wave functions in terms of frequency components. His work directly relates to the development of quantum mechanics in wave propagation.
 
@@ -157,6 +157,8 @@ Joseph Fourier’s development of Fourier analysis allowed quantum mechanics to 
   
 
     
+
+
 
 
 
