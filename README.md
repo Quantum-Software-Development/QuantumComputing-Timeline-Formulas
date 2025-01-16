@@ -144,8 +144,12 @@ Joseph Fourier’s development of Fourier analysis allowed quantum mechanics to 
   
    $\huge \color{DeepSkyBlue} f(x) = \int_{-\infty}^{\infty} \hat{f}(k) \, e^{2\pi i k x} \, dk$
 
+   [Where]():  
+   - $\large \color{DeepSkyBlue} f(x)$ is the original function in the spatial domain.  
+   - $\large \color{DeepSkyBlue} \hat{f}(k)$ is the transformed function in the frequency domain.  
+   - $\large \color{DeepSkyBlue} x$ represents position, and $k$ represents momentum or frequency.
 
-
+  
 
     
 
