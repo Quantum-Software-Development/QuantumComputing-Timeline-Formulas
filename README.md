@@ -132,8 +132,38 @@ Carl Friedrich Gauss was pivotal in developing the mathematical framework used i
 
 Joseph Fourier’s development of Fourier analysis allowed quantum mechanics to describe wave functions in terms of frequency components. His work directly relates to the development of quantum mechanics in wave propagation.
 
+* Developed the mathematical framework for the Fourier Transform, which is foundational in quantum mechanics and quantum computing.  
+
+ - Formula for Fourier Transform:
+  
+  $\huge \color{DeepSkyBlue} \hat{f}(k) = \int_{-\infty}^{\infty} f(x) \, e^{-2\pi i k x} \, dx$
+
+<br>
+
+  - Formula for [Inverse]() Fourier Transform:
+  
+   $\huge \color{DeepSkyBlue} f(x) = \int_{-\infty}^{\infty} \hat{f}(k) \, e^{2\pi i k x} \, dk$
+
+
+
 
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
