@@ -106,7 +106,7 @@ Leonhard Euler, one of the most significant mathematicians in history, contribut
      - $\large \color{DeepSkyBlue} \( \theta \)$: Phase angle.  
      - $\large \color{DeepSkyBlue} \( i \)$: Imaginary unit.  
 
-     Euler's formula is essential for describing [quantum wavefunctions]() and visualizing oscillations in the complex plane.
+   Euler's formula is essential for describing [quantum wavefunctions]() and visualizing oscillations in the complex plane.
 
 #
 
