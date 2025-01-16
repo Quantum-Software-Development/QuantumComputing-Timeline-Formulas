@@ -732,8 +732,14 @@ In [quantum cryptography](), this state is used to ensure the security of commun
 
  <br><br><br><br><br><br>
 
+ ## IX [How to Contribute]()
 
-## IX. [Quantum Error Correction](#quantum-error-correction)
+Contribute your knowledge or corrections. This repository invites all who are passionate about Quantum Computing and believe they can make a difference.
+
+
+
+
+## X. [Quantum Error Correction](#quantum-error-correction)
 
 ### 1. The Importance of Quantum Error Correction
 Quantum error correction is a foundational concept in quantum computing, addressing the challenges posed by decoherence and quantum noise. Since quantum systems are highly sensitive to their environment, errors can accumulate during computation, making error correction crucial for reliable quantum operations.
@@ -748,7 +754,10 @@ Quantum error correction is a foundational concept in quantum computing, address
 - Hardware optimization to minimize error rates and improve system reliability.  
 - Advanced algorithms to ensure scalability in large-scale quantum systems.
 
-### References
+<br>
+
+## XI [References]()
+
 1. Nielsen, M. A., & Chuang, I. L. (2010). *Quantum Computation and Quantum Information*. Cambridge University Press.  
    This book is a comprehensive reference for understanding quantum mechanics, quantum computation, and quantum error correction techniques.  
 
@@ -764,12 +773,6 @@ Quantum error correction is a foundational concept in quantum computing, address
 5. Devitt, S. J., Munro, W. J., & Nemoto, K. (2013). *Quantum Error Correction for Beginners*. Reports on Progress in Physics, 76(7), 076001.  
    A beginner-friendly overview of quantum error correction principles and practical implementations.  
 
-
-
-## How to Contribute
-
-Feel free to contribute by adding information, corrections, or insights. This repository welcomes everyone passionate about Quantum Computing and bold enough to believe they can change the world.
--->
 
 #
 
