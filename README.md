@@ -111,6 +111,25 @@ Leonhard Euler, one of the most significant mathematicians in history, contribut
 
 #
 
+2. [Carl Friedrich Gauss]() (1809) <br>  ──────────────
+
+Carl Friedrich Gauss was pivotal in developing the mathematical framework used in quantum mechanics. His work on number theory and statistics influenced quantum field theory and the statistical interpretation of quantum systems.
+
+   * Introduced the [Gaussian Distribution](), which describes random variables and noise in quantum systems.  
+  
+   * **Gaussian Distribution Formula:**
+     
+     $\huge \color{DeepSkyBlue} f(x) = \frac{1}{\sqrt{2\pi\sigma^2}} e^{-\frac{(x-\mu)^2}{2\sigma^2}}$  
+
+    
+
+
+
+
+
+
+
+
 
 
 
