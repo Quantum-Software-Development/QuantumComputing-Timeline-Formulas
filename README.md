@@ -96,7 +96,11 @@ Feel free to explore, learn, and contribute by adding information, corrections, 
 - [Additional Concepts in Quantum Computing](#additional-concepts-in-quantum-computing)  
   - [Quantum Interference](#quantum-interference)  
   - [Quantum Decoherence](#quantum-decoherence)  
-  - [Qutrits and Qudits](#qutrits-and-qudits)  
+  - [Qutrits and Qudits](#qutrits-and-qudits)
+
+- []()
+- []()
+- []()      
 
   
  <br><br>
