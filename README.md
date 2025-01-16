@@ -149,6 +149,11 @@ Joseph Fourier’s development of Fourier analysis allowed quantum mechanics to 
    - $\large \color{DeepSkyBlue} \hat{f}(k)$ is the transformed function in the frequency domain.  
    - $\large \color{DeepSkyBlue} \( x \)$ represents position, and $\large \color{DeepSkyBlue} k$ represents momentum or frequency.
 
+     
+ [**Relevance in Quantum Mechanics and Computing:**]()  
+   - **Quantum Mechanics**: Converts wavefunctions between position and momentum spaces.  
+   - **Quantum Computing**: Basis for the Quantum Fourier Transform (QFT), essential for algorithms like Shor's factoring algorithm.  
+
   
 
     
