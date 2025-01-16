@@ -109,7 +109,7 @@ Leonhard Euler, one of the most significant mathematicians in history, contribut
 
 #
 
-2. [Carl Friedrich Gauss]() (1809) <br>  ──────────────
+### 2. [Carl Friedrich Gauss]() (1809) <br>  ──────────────
 
 Carl Friedrich Gauss was pivotal in developing the mathematical framework used in quantum mechanics. His work on number theory and statistics influenced quantum field theory and the statistical interpretation of quantum systems.
 
