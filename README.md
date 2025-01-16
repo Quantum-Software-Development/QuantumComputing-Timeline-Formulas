@@ -90,6 +90,8 @@ Feel free to explore, contribute, and share your insights!
 
 ## Predecessors of Quantum Mechanics
 
+<br>
+
 1. [Leonhard Euler]() (1748) <br>
  ────────────── 
 
@@ -102,9 +104,9 @@ Leonhard Euler, one of the most significant mathematicians in history, contribut
      $\huge \color{DeepSkyBlue} e^{i\theta} = \cos(\theta) + i\sin(\theta)$  
 
      Where:  
-     - **\( e \)**: Base of the natural logarithm.  
-     - **\( \theta \)**: Phase angle.  
-     - **\( i \)**: Imaginary unit.  
+     - $\large \color{DeepSkyBlue} \( e \)$: Base of the natural logarithm.  
+     - \( \theta \)**: Phase angle.  
+     - \( i \)**: Imaginary unit.  
 
      Euler's formula is essential for describing quantum wavefunctions and visualizing oscillations in the complex plane.
 
@@ -119,9 +121,7 @@ Leonhard Euler, one of the most significant mathematicians in history, contribut
 
 ## II. Early 20th Century – Foundations of Quantum Mechanics
 
-
 <br>
-
 
 2. [Max Planck]() **(1900)** <br>
  ────────────── 
