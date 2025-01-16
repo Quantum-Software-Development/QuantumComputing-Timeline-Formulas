@@ -127,7 +127,7 @@ Carl Friedrich Gauss was pivotal in developing the mathematical framework used i
      - $\large \color{DeepSkyBlue} \( \sigma \)$: Standard deviation.  
      - $\large \color{DeepSkyBlue} \( x \)$: Random variable.  
 
-     This formula is widely used to [model measurement uncertainties]() in quantum mechanics.
+   This formula is widely used to [model measurement uncertainties]() in quantum mechanics.
 
 #
 
