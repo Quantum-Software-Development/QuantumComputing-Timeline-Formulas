@@ -98,7 +98,7 @@ Feel free to explore, learn, and contribute by adding information, corrections, 
   - [Quantum Decoherence](#quantum-decoherence)  
   - [Qutrits and Qudits](#qutrits-and-qudits)
 
-- []()
+- [How to Contribute](#how-to-contribute)
 - []()
 - []()      
 
