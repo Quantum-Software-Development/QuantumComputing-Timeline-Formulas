@@ -21,7 +21,8 @@
 
  <br><br>
 
- ![7RwF](https://github.com/user-attachments/assets/6e8b6177-5f4e-4341-8ba1-abfd5a7ecdc3)
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/6e8b6177-5f4e-4341-8ba1-abfd5a7ecdc3"/>
 
  <br><br>
 
