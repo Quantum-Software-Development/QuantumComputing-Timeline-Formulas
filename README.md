@@ -120,9 +120,9 @@ Carl Friedrich Gauss was pivotal in developing the mathematical framework used i
      $\huge \color{DeepSkyBlue} f(x) = \frac{1}{\sqrt{2\pi\sigma^2}} e^{-\frac{(x-\mu)^2}{2\sigma^2}}$
 
       Where:  
-     - **\( \mu \)**: Mean of the distribution.  
-     - **\( \sigma \)**: Standard deviation.  
-     - **\( x \)**: Random variable.  
+     - $\large \color{DeepSkyBlue}\( \mu \)$: Mean of the distribution.  
+     - $\large \color{DeepSkyBlue} \( \sigma \)$: Standard deviation.  
+     - $\large \color{DeepSkyBlue} \( x \)$: Random variable.  
 
      This formula is widely used to [model measurement uncertainties]() in quantum mechanics.
 
