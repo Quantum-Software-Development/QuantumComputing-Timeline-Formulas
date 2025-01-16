@@ -40,7 +40,9 @@ Feel free to explore, learn, and contribute by adding information, corrections, 
 
 <br>
 
-####  <p align="center"> < made with vibe, frequency, and joy />  
+####  <p align="center"> < made with vibe, frequency, and joy /> ⚡️
+
+<br>
 
 
 ## Table of Contents
