@@ -34,7 +34,7 @@
 
  <br><br>
 
-## <p align="center"> [About This Repository]()
+## [About This Repository]()
 
 
 This repository is a heartfelt tribute to the pioneers of quantum mechanics and computing, whose brilliance and vision have illuminated the path to one of humanity’s most profound scientific revolutions. It serves as both a beacon and a foundation for those eager to explore the intricacies of quantum computing, showcasing the journey from groundbreaking discoveries to the cutting-edge innovations shaping our future.
