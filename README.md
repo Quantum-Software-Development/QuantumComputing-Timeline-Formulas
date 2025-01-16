@@ -105,8 +105,8 @@ Leonhard Euler, one of the most significant mathematicians in history, contribut
 
      Where:  
      - $\large \color{DeepSkyBlue} \( e \)$: Base of the natural logarithm.  
-     - \( \theta \)**: Phase angle.  
-     - \( i \)**: Imaginary unit.  
+     - $\large \color{DeepSkyBlue} \( \theta \)$: Phase angle.  
+     - $\large \color{DeepSkyBlue} \( i \)$: Imaginary unit.  
 
      Euler's formula is essential for describing quantum wavefunctions and visualizing oscillations in the complex plane.
 
