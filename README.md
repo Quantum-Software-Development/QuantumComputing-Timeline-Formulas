@@ -88,9 +88,7 @@ Feel free to explore, contribute, and share your insights!
   
  <br><br>
 
-## Predecessors of Quantum Mechanics
-
-<br>
+## Predecessors of Quantum Mechanics <br>
 
 ### 1. [Leonhard Euler]() (1748) <br> ────────────── 
 
