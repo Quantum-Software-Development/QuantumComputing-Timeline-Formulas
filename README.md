@@ -209,7 +209,7 @@ Srinivasa Ramanujan made groundbreaking contributions to mathematics, particular
 
  ### **Ramanujan's Infinite Series for \( \pi \):**
 
-One of his most famous formulas is an infinite series for \( \frac{1}{\pi} \):
+One of his most famous formulas is an infinite series for $large \color{DeepSkyBlue} \( \frac{1}{\pi} \)$:
 
 $\huge \color{DeepSkyBlue} \frac{1}{\pi} = \frac{2\sqrt{2}}{9801} \sum_{n=0}^{\infty} \frac{(4n)!(1103 + 26390n)}{(n!)^4 396^{4n}}$
 
@@ -217,7 +217,7 @@ $\huge \color{DeepSkyBlue} \frac{1}{\pi} = \frac{2\sqrt{2}}{9801} \sum_{n=0}^{\i
 
 Where:
 
-- **$\huge \color{DeepSkyBlue} \( n \)$** : Summation index.
+- **$large \color{DeepSkyBlue} \( n \)$** : Summation index.
 
 This series converges extraordinarily rapidly, making it highly efficient for calculating \( \pi \) to many decimal places. In 1985, William Gosper used this formula to compute \( \pi \) to 17 million digits. 
 
