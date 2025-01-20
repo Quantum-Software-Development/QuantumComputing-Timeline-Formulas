@@ -203,7 +203,7 @@ Joseph Fourier’s development of Fourier analysis allowed quantum mechanics to 
 
    * Srinivasa Ramanujan made groundbreaking contributions to mathematics, particularly in the realms of modular forms and infinite series. His work has had a lasting impact on various fields, including quantum gravity and string theory. 
 
- ### ***Ramanujan's Infinite Series for $\large \color{DeepSkyBlue} \pi\$:***
+ ### ***Ramanujan's Infinite Series for $\large \color{DeepSkyBlue} π$:***
 
  One of his most famous formulas is an infinite series for $\large \color{DeepSkyBlue} \frac{1}{\pi}$ :
 
