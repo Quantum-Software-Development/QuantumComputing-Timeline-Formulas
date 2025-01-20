@@ -240,7 +240,7 @@ Joseph Fourier’s development of Fourier analysis allowed quantum mechanics to 
 
 
 
-
+<!-- RESTART HEREV !!!!!!!
 
      
 <br><br>
@@ -483,36 +483,13 @@ In [quantum cryptography](), this state is used to ensure the security of commun
     
 
 
-
+-->
 
 
   
-   
-
  
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
+<!-- REVIEW AND IBNSERT LATER
 
 1. **Max Planck (1900)**  🌌  
    **Contribution**: Known as the "father of quantum theory," his discovery opened the door to quantum physics.
