@@ -219,7 +219,7 @@ Where:
 
 - **$large \color{DeepSkyBlue} \( n \)$** : Summation index.
 
-This series converges extraordinarily rapidly, making it highly efficient for calculating \( \pi \) to many decimal places. In 1985, William Gosper used this formula to compute \( \pi \) to 17 million digits. 
+This series converges extraordinarily rapidly, making it highly efficient for calculating $\large \color{DeepSkyBlue} \frac{1}{\pi} \( \pi \)$ to many decimal places. In 1985, William Gosper used this formula to compute \( \pi \) to 17 million digits. 
 
 Ramanujan's deep insights into infinite series and modular forms continue to influence modern mathematical research and applications. 
 
