@@ -205,7 +205,9 @@ Joseph Fourier’s development of Fourier analysis allowed quantum mechanics to 
 
  ### ***Ramanujan's Infinite Series for $\large \color{DeepSkyBlue} \pi \$:***
 
- One of his most famous formulas is an infinite series for $\large \color{DeepSkyBlue} \frac{1}{\pi}$ :
+ One of his most famous formulas is an infinite series for $\large \color{DeepSkyBlue} \frac{1}{\pi}$ :  
+
+ $\( \pi \)$
 
  $\huge \color{DeepSkyBlue} \frac{1}{\pi} = \frac{2\sqrt{2}}{9801} \sum_{n=0}^{\infty} \frac{(4n)!(1103 + 26390n)}{(n!)^4 396^{4n}}$  
 
