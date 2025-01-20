@@ -191,9 +191,21 @@ Joseph Fourier’s development of Fourier analysis allowed quantum mechanics to 
      
  **Relevance in** Quantum Mechanics and Computing:]()  
    - **Quantum Mechanics**: Converts wavefunctions between position and momentum spaces.  
-   - **Quantum Computing**: Basis for the Quantum Fourier Transform (QFT), essential for algorithms like Shor's factoring algorithm.  
+   - **Quantum Computing**: Basis for the Quantum Fourier Transform (QFT), essential for algorithms like Shor's factoring algorithm.
 
-  
+
+#
+
+
+### 4. **Srinivasa Ramanujan (1910–1920)**  <br>  ──────────────  
+
+   * Contributed to [modular forms]() and [infinite series](), influencing quantum gravity and string theory.
+     
+     ### **Ramanujan's Infinite Series for \( \pi \):***
+     
+     $\huge \color{DeepSkyBlue} \frac{1}{\pi} = \frac{2\sqrt{2}}{9801} \sum_{n=0}^{\infty} \frac{(4n)!(1103 + 26390n)}{(n!)^4 396^{4n}}$  
+
+   
 
     
 
