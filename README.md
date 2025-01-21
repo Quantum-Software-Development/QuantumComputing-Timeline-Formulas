@@ -198,7 +198,7 @@ Joseph Fourier’s development of Fourier analysis allowed quantum mechanics to 
 #
 
 
-### 4. **Srinivasa Ramanujan (1910–1920)**  <br>  ──────────────  
+### 4. [Srinivasa Ramanujan][() (1910–1920) <br>  ──────────────  
 
 
    * Srinivasa Ramanujan made groundbreaking contributions to mathematics, particularly in the realms of modular forms and infinite series. His work has had a lasting impact on various fields, including quantum gravity and string theory.
