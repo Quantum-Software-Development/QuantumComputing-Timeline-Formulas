@@ -1,6 +1,8 @@
 
 ## 🌟 Srinivasa Ramanujan 🌟
 
+![Image](https://github.com/user-attachments/assets/fac7c68d-fed7-432d-ace8-29d5f1aa2628)
+
 
 Srinivasa Ramanujan was an exceptional Indian mathematician, born on December 22, 1887, in Erode, Tamil Nadu, India. He is renowned for his groundbreaking contributions to various fields of mathematics, including number theory, infinite series, and continued fractions, despite having little formal training in the subject.
 
