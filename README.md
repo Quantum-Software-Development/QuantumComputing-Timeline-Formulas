@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/6eaafec8-fc98-4180-9c1f-ac4f9b0199ee
 
 <br>
 
-https://youtu.be/KR5YnSiN5Ao
+📺 [Watch on YouTube for better resolution](https://youtu.be/KR5YnSiN5Ao)
 
 <!--
 
