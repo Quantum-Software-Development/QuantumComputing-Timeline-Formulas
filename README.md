@@ -35,10 +35,12 @@ https://youtu.be/KR5YnSiN5Ao
 </p>
 -->
 
+
+<!--  ARTOMO
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6e8b6177-5f4e-4341-8ba1-abfd5a7ecdc3" width="300" height="300" />
 </p>
-
+-->
 
  <br><br>
 
