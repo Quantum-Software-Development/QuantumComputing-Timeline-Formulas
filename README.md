@@ -6,6 +6,8 @@
 
 # <p align="center"> 🇶 **Quantum Computing Timeline with Key Contributions and Formulas**
 
+https://github.com/user-attachments/assets/e5ca118b-8b5a-4b16-9f6b-a095d7c6b373
+
 https://youtu.be/KR5YnSiN5Ao
 
 <!--
