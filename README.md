@@ -150,7 +150,7 @@ Leonhard Euler, one of the most significant mathematicians in history, contribut
 
   <br>
 
-   Where:  
+   [Where]():  
      - $\large \color{DeepSkyBlue} \( e \)$: Base of the natural logarithm.  
      - $\large \color{DeepSkyBlue} \( \theta \)$: Phase angle.  
      - $\large \color{DeepSkyBlue} \( i \)$: Imaginary unit.  
@@ -171,7 +171,7 @@ Carl Friedrich Gauss was pivotal in developing the mathematical framework used i
 
    <br>
 
-   Where:  
+   [Where]():  
      - $\large \color{DeepSkyBlue}\( \mu \)$: Mean of the distribution.  
      - $\large \color{DeepSkyBlue} \( \sigma \)$: Standard deviation.  
      - $\large \color{DeepSkyBlue} \( x \)$: Random variable.  
@@ -239,7 +239,7 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 #
 
 
-### 5. [Satyendra Nath Bose (1924)]()  <br>  ──────────────  
+### 5. [Satyendra Nath Bose]() (1924)  <br>  ──────────────  
 
    * Co-developed the [Bose-Einstein Condensate](https://www.civilsdaily.com/news/satyendra-nath-bose-and-his-contributions-to-the-quantum-world/), describing particles that share quantum states.
   
@@ -259,7 +259,7 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 
 #
 
-### 6. **Max Planck (1900)**  <br>  ──────────────  
+### 6. [Max Planck]() (1900) <br>  ──────────────  
 
    * Pioneered Quantum Theory**: Introduced the concept of energy quantization, proposing that energy is emitted or absorbed in discrete units called "quanta." ([Chemistry LibreTexts](https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/Chem_1402%3A_General_Chemistry_1_%28Kattoum%29/Text/6%3A_The_Structure_of_Atoms/6.2%3A_Quantization%3A_Planck%2C_Einstein%2C_Energy%2C_and_Photons?utm_source=chatgpt.com))
 
