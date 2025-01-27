@@ -250,7 +250,7 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
    [Where]():  
      - $\large \color{DeepSkyBlue} \( E \)$: Energy of a state.  
      - $\large \color{DeepSkyBlue} \( \mu \)$: Chemical potential.  
-     - **\( k_B \)**: Boltzmann constant.  
+     - $$\large \color{DeepSkyBlue} \( k_B \)$: Boltzmann constant.  
      - **\( T \)**: Temperature.  
 
  Bose's work laid the groundwork for quantum statistics and particle behavior at near-zero temperatures. 
