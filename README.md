@@ -235,8 +235,7 @@ This series converges extraordinarily rapidly, making it highly efficient for ca
 
 Ramanujan's deep insights into infinite series and modular forms continue to influence modern mathematical research and applications. 
 
-
-<br>
+#
 
 5. **Satyendra Nath Bose (1924)**  <br>  
 ──────────────  
