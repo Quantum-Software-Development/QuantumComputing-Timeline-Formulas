@@ -63,7 +63,7 @@ Feel free to explore, learn, and contribute by adding information, corrections, 
 
 <br>
 
-###  <p align="center"> ***[Together](), We Are Stronger. [Together](), We Will Change the World !*** 
+###  <p align="center"> ***[Together]() We Are Stronger. [Together]() We Will Change the World !*** 
 
 <br>
 
