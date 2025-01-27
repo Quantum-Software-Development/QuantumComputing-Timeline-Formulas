@@ -228,7 +228,6 @@ $\huge \color{DeepSkyBlue} \frac{1}{\pi} = \frac{2\sqrt{2}}{9801} \sum_{n=0}^{\i
 <br>
 
 [Where]():
-
 - **$large \color{DeepSkyBlue} \( n \)$** : Summation index.
 
 This series converges extraordinarily rapidly, making it highly efficient for calculating $\large \color{DeepSkyBlue} \frac{1}{\pi} \( \pi \)$ to many decimal places. In 1985, William Gosper used this formula to compute $\large \color{DeepSkyBlue} \frac{1}{\pi} \( \pi \)$ to 17 million digits. 
@@ -268,6 +267,16 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 ### **Quantized Energy Formula:** 
 
   $\huge \color{DeepSkyBlue} E = h \cdot f$
+
+<br>
+
+ Where:  
+     - **\( E \)**: Energy of a photon.
+     - **\( h \)**: Planck's constant (\(6.626 \times 10^{-34} \, \text{J·s}\)).
+     - **\( f \)**: Frequency of the radiation.
+
+
+  
 
     
     
