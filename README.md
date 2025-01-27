@@ -249,9 +249,8 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 
    [Where]():  
      - **\( E \)**: Energy of a state.  
-   
-
-
+     - **\( \mu \)**: Chemical potential.  
+     
    
 
 
