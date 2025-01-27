@@ -227,7 +227,7 @@ $\huge \color{DeepSkyBlue} \frac{1}{\pi} = \frac{2\sqrt{2}}{9801} \sum_{n=0}^{\i
 
 <br>
 
-Where:
+[Where]():
 
 - **$large \color{DeepSkyBlue} \( n \)$** : Summation index.
 
@@ -239,7 +239,7 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 #
 
 
-### 5. **Satyendra Nath Bose (1924)**  <br>  ──────────────  
+### 5. [Satyendra Nath Bose (1924)]()  <br>  ──────────────  
 
    * Co-developed the [Bose-Einstein Condensate](https://www.civilsdaily.com/news/satyendra-nath-bose-and-his-contributions-to-the-quantum-world/), describing particles that share quantum states.
   
