@@ -272,7 +272,7 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 
    [Where]():  
      - $\large \color{DeepSkyBlue} \ E \$: Energy of a photon.
-     - $\large \color{DeepSkyBlue} \ h \$: Planck's constant $\large \color{DeepSkyBlue} (\(6.626 \times 10^{-34} \, \text{J·s}\))$.
+     - $\large \color{DeepSkyBlue} \ h \$: Planck's constant $\large \color{DeepSkyBlue} \(6.626 \times 10^{-34} \, \text{J·s}\)$.
      - **\( f \)**: Frequency of the radiation.
 
 
