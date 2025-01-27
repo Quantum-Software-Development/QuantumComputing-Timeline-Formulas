@@ -248,8 +248,8 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
    <br>
 
    [Where]():  
-     - **\( E \)**: Energy of a state.  
-     - **\( \mu \)**: Chemical potential.  
+     - $\large \color{DeepSkyBlue} \( E \)$: Energy of a state.  
+     - $\large \color{DeepSkyBlue} \( \mu \)$: Chemical potential.  
      - **\( k_B \)**: Boltzmann constant.  
      - **\( T \)**: Temperature.  
 
