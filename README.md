@@ -253,6 +253,10 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
      - **\( k_B \)**: Boltzmann constant.  
      - **\( T \)**: Temperature.  
 
+ Bose's work laid the groundwork for quantum statistics and particle behavior at near-zero temperatures. 
+
+#
+
    
     
    
