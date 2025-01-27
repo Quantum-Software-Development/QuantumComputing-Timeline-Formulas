@@ -247,6 +247,10 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 
    <br>
 
+   [Where]():  
+     - **\( E \)**: Energy of a state.  
+   
+
 
    
 
