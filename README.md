@@ -832,11 +832,11 @@ Quantum error correction is a foundational concept in quantum computing, address
 <br>
 
 
- ## [How to Contribute]()
+ ## [How to Contribute]():
 
 This repository thrives on collaboration! Whether you're a quantum computing expert or just getting started, your contributions are valuable.
 
-### Ways to Contribute:
+### [Ways to Contribute]():
 
 - **Add Information**: Share new discoveries or advancements in quantum computing.
 - **Improve Content**: Help us fix errors or enhance existing material.
