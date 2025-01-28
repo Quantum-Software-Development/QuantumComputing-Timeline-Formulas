@@ -136,7 +136,7 @@ Feel free to explore, learn, and contribute by adding information, corrections, 
   
  <br><br>
 
-## [Predecessors]() of Quantum Mechanics <br>
+# [Predecessors]() of Quantum Mechanics <br>
 
 ### 1. [Leonhard Euler]() (1748) <br> ────────────── 
 
@@ -258,7 +258,8 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 
 <br>
 
-## [Beginning of the 20th Century]() – Foundations of Quantum Mechanics
+# [Beginning of the 20th Century]() – Foundations of Quantum Mechanics
+
 <br>
 
 ### 6. [Max Planck]() (1900) <br>  ──────────────  
