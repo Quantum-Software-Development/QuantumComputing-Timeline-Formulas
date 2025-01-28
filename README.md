@@ -814,6 +814,24 @@ In [quantum cryptography](), this state is used to ensure the security of commun
 
  <br><br><br><br><br><br>
 
+## [Quantum Error Correction](#quantum-error-correction)
+
+### 1. The Importance of Quantum Error Correction
+Quantum error correction is a foundational concept in quantum computing, addressing the challenges posed by decoherence and quantum noise. Since quantum systems are highly sensitive to their environment, errors can accumulate during computation, making error correction crucial for reliable quantum operations.
+
+### 2. Key Techniques in Quantum Error Correction
+- **Shor's Code**: The first quantum error-correcting code, proposed by Peter Shor, demonstrated how a single qubit of information could be protected from errors using nine physical qubits.  
+- **Steane Code**: Andrew Steane introduced a more efficient error-correcting code that requires fewer resources compared to Shor’s code.  
+- **Topological Codes**: These include approaches like Kitaev’s surface code, which leverage the topological properties of quantum systems to correct errors effectively.
+
+### 3. Applications and Future Directions
+- Fault-tolerant quantum computation using logical qubits protected by error correction.  
+- Hardware optimization to minimize error rates and improve system reliability.  
+- Advanced algorithms to ensure scalability in large-scale quantum systems.
+
+<br>
+
+
  ## [How to Contribute]()
 
 This repository thrives on collaboration! Whether you're a quantum computing expert or just getting started, your contributions are valuable.
@@ -841,23 +859,6 @@ This repository thrives on collaboration! Whether you're a quantum computing exp
 - Stay focused on quantum computing.
 
 **Together, we can shape the future of quantum computing.** Every contribution, no matter how small, makes a difference. Thank you for being part of this journey!
-
-<br>
-
-## [Quantum Error Correction](#quantum-error-correction)
-
-### 1. The Importance of Quantum Error Correction
-Quantum error correction is a foundational concept in quantum computing, addressing the challenges posed by decoherence and quantum noise. Since quantum systems are highly sensitive to their environment, errors can accumulate during computation, making error correction crucial for reliable quantum operations.
-
-### 2. Key Techniques in Quantum Error Correction
-- **Shor's Code**: The first quantum error-correcting code, proposed by Peter Shor, demonstrated how a single qubit of information could be protected from errors using nine physical qubits.  
-- **Steane Code**: Andrew Steane introduced a more efficient error-correcting code that requires fewer resources compared to Shor’s code.  
-- **Topological Codes**: These include approaches like Kitaev’s surface code, which leverage the topological properties of quantum systems to correct errors effectively.
-
-### 3. Applications and Future Directions
-- Fault-tolerant quantum computation using logical qubits protected by error correction.  
-- Hardware optimization to minimize error rates and improve system reliability.  
-- Advanced algorithms to ensure scalability in large-scale quantum systems.
 
 <br>
 
