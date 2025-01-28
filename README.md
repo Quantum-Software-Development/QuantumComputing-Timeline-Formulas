@@ -268,7 +268,7 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 
      [Where]():  
        - $\large \color{DeepSkyBlue} \ E \$: Energy of a photon.
-       - **\( h \)**: Planck's constant (\(6.626 \times 10^{-34} \, \text{J·s}\)).
+       - $\large \color{DeepSkyBlue} \ h \$: Planck's constant $\large \color{DeepSkyBlue} \(6.626 \times 10^{-34} \, \text{J·s}\)$.
        - **\( f \)**: Frequency of the radiation.
 
    Planck's revolutionary idea that energy levels are quantized laid the foundation for modern quantum mechanics, profoundly influencing our understanding of atomic and subatomic processes. ([Physics LibreTexts](https://phys.libretexts.org/Bookshelves/College_Physics/College_Physics_1e_%28OpenStax%29/29%3A_Introduction_to_Quantum_Physics/29.01%3A_Quantization_of_Energy?utm_source=chatgpt.com)) 
