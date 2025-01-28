@@ -826,13 +826,13 @@ This repository thrives on collaboration! Whether you're a quantum computing exp
 - **Correct Mistakes**: Point out any inaccuracies to keep the content reliable.
 - **Add References**: Provide relevant research papers or books to enrich the repository.
 
-### How to Submit:
+### [How to Submit]():
 
 1. **Fork** the repository.
 2. **Make changes** locally.
 3. **Submit a pull request** with a clear description of your contributions.
 
-### Guidelines:
+### [Guidelines]():
 
 - Be respectful and collaborative.
 - Ensure your changes are clear and well-documented.
