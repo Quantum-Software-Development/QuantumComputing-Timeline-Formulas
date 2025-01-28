@@ -242,7 +242,7 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 
    * Co-developed the [Bose-Einstein Condensate](https://www.civilsdaily.com/news/satyendra-nath-bose-and-his-contributions-to-the-quantum-world/), describing particles that share quantum states.
   
-  ### **Bose-Einstein Distribution Formula:**  
+  ### ***Bose-Einstein Distribution Formula:***  
   
    $\huge \color{DeepSkyBlue} f(E) = \frac{1}{e^{(E-\mu)/k_B T} - 1}$  
 
@@ -262,7 +262,7 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 
    * Pioneered Quantum Theory**: Introduced the concept of energy quantization, proposing that energy is emitted or absorbed in discrete units called "quanta." ([Chemistry LibreTexts](https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/Chem_1402%3A_General_Chemistry_1_%28Kattoum%29/Text/6%3A_The_Structure_of_Atoms/6.2%3A_Quantization%3A_Planck%2C_Einstein%2C_Energy%2C_and_Photons?utm_source=chatgpt.com))
 
-  ### **Quantized Energy Formula:**
+  ### ***Quantized Energy Formula:***
      
    $\huge \color{DeepSkyBlue} E = h \cdot f$
 
