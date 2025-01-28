@@ -867,16 +867,16 @@ This repository thrives on collaboration! Whether you're a quantum computing exp
 1. [Nielsen, M. A., & Chuang, I. L. (2010)](). *Quantum Computation and Quantum Information*. Cambridge University Press.  
    This book is a comprehensive reference for understanding quantum mechanics, quantum computation, and quantum error correction techniques.  
 
-2. Preskill, J. (1998). *Fault-Tolerant Quantum Computation*. Proceedings of the Royal Society of London A, 454(1969), 385–410.  
+2. [Preskill, J. (1998)](). *Fault-Tolerant Quantum Computation*. Proceedings of the Royal Society of London A, 454(1969), 385–410.  
    This paper explores the theoretical foundation of fault tolerance in quantum systems.
 
-3. Gottesman, D. (1997). *Stabilizer Codes and Quantum Error Correction*. PhD Thesis, California Institute of Technology.  
+3. [Gottesman, D. (1997)]().. *Stabilizer Codes and Quantum Error Correction*. PhD Thesis, California Institute of Technology.  
    A seminal work introducing the stabilizer formalism, a key framework for many error correction codes.  
 
-4. Kitaev, A. Y. (2003). *Fault-Tolerant Quantum Computation by Anyons*. Annals of Physics, 303(1), 2–30.  
+4. [Kitaev, A. Y. (2003)]().. *Fault-Tolerant Quantum Computation by Anyons*. Annals of Physics, 303(1), 2–30.  
    This work discusses the application of topological quantum codes for error correction.  
 
-5. Devitt, S. J., Munro, W. J., & Nemoto, K. (2013). *Quantum Error Correction for Beginners*. Reports on Progress in Physics, 76(7), 076001.  
+5. [Devitt, S. J., Munro, W. J., & Nemoto, K. (2013)]().. *Quantum Error Correction for Beginners*. Reports on Progress in Physics, 76(7), 076001.  
    A beginner-friendly overview of quantum error correction principles and practical implementations.  
 
 
