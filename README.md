@@ -864,7 +864,7 @@ This repository thrives on collaboration! Whether you're a quantum computing exp
 
 ## [References]()
 
-1. Nielsen, M. A., & Chuang, I. L. (2010). *Quantum Computation and Quantum Information*. Cambridge University Press.  
+1. [Nielsen, M. A., & Chuang, I. L. (2010)](). *Quantum Computation and Quantum Information*. Cambridge University Press.  
    This book is a comprehensive reference for understanding quantum mechanics, quantum computation, and quantum error correction techniques.  
 
 2. Preskill, J. (1998). *Fault-Tolerant Quantum Computation*. Proceedings of the Royal Society of London A, 454(1969), 385–410.  
