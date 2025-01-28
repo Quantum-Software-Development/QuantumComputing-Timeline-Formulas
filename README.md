@@ -4,7 +4,7 @@
  <br>
 
 
-## <p align="center"> 🇶 **Quantum Computing Timeline with Key Contributions and Formulas**
+# <p align="center"> 🇶 **Quantum Computing Timeline with Key Contributions and Formulas**
 
 <br>
 
