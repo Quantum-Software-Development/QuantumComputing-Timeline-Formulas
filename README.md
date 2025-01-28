@@ -260,7 +260,6 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 
 ### 6. [Max Planck]() (1900) <br>  ──────────────  
 
-
    * Pioneered Quantum Theory**: Introduced the concept of energy quantization, proposing that energy is emitted or absorbed in discrete units called "quanta." ([Chemistry LibreTexts](https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/Chem_1402%3A_General_Chemistry_1_%28Kattoum%29/Text/6%3A_The_Structure_of_Atoms/6.2%3A_Quantization%3A_Planck%2C_Einstein%2C_Energy%2C_and_Photons?utm_source=chatgpt.com))
 
   ### **Quantized Energy Formula:**
@@ -270,9 +269,9 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
    <br>
 
    [Where]():  
-     - $\large \color{DeepSkyBlue} \ E \$: Energy of a photon.
-     - $\large \color{DeepSkyBlue} \ h \$: Planck's constant $\large \color{DeepSkyBlue} \(6.626 \times 10^{-34} \, \text{J·s}\)$.
-     - $\large \color{DeepSkyBlue} \ f \$: Frequency of the radiation.
+    - $\large \color{DeepSkyBlue} \ E \$: Energy of a photon.
+    - $\large \color{DeepSkyBlue} \ h \$: Planck's constant $\large \color{DeepSkyBlue} \(6.626 \times 10^{-34} \, \text{J·s}\)$.
+    - $\large \color{DeepSkyBlue} \ f \$: Frequency of the radiation.
 
    Planck's revolutionary idea that energy levels are quantized laid the foundation for modern quantum mechanics, profoundly influencing our understanding of atomic and subatomic processes. ([Physics LibreTexts](https://phys.libretexts.org/Bookshelves/College_Physics/College_Physics_1e_%28OpenStax%29/29%3A_Introduction_to_Quantum_Physics/29.01%3A_Quantization_of_Energy?utm_source=chatgpt.com)) 
     
