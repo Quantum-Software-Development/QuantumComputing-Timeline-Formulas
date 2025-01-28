@@ -256,7 +256,10 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 
  Bose's work laid the groundwork for quantum statistics and particle behavior at near-zero temperatures. 
 
-#
+<br>
+
+## Beginning of the 20th Century – Foundations of Quantum Mechanics
+<br>
 
 ### 6. [Max Planck]() (1900) <br>  ──────────────  
 
