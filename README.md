@@ -267,7 +267,7 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
      $\huge \color{DeepSkyBlue} E = h \cdot f$
 
      Where:  
-     - **\( E \)**: Energy of a photon.
+     - $\large \color{DeepSkyBlue} \ E \$: Energy of a photon.
      - **\( h \)**: Planck's constant (\(6.626 \times 10^{-34} \, \text{J·s}\)).
      - **\( f \)**: Frequency of the radiation.
 
