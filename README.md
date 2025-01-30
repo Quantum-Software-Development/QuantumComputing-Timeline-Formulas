@@ -172,14 +172,14 @@ Carl Friedrich Gauss was pivotal in developing the mathematical framework used i
    <br>
 
    [Where]():  
-     - $\large \color{DeepSkyBlue}\( \mu \)$: Mean of the distribution.  
-     - $\large \color{DeepSkyBlue} \( \sigma \)$: Standard deviation.  
-     - $\large \color{DeepSkyBlue} \( x \)$: Random variable.  
+     - $\large \color{DeepSkyBlue} \ \mu \$: Mean of the distribution.  
+     - $\large \color{DeepSkyBlue} \ \sigma \$: Standard deviation.  
+     - $\large \color{DeepSkyBlue} \ x \$: Random variable.  
 
    This formula is widely used to [model measurement uncertainties]() in quantum mechanics.
 
 #
-
+ 
 ### 3. [Joseph Fourier]() (1822)  <br>  ──────────────
 
 Joseph Fourier’s development of Fourier analysis allowed quantum mechanics to describe wave functions in terms of frequency components. His work directly relates to the development of quantum mechanics in wave propagation.
