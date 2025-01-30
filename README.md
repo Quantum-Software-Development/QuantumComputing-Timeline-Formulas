@@ -293,7 +293,7 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 
    [Where]():  
     - $\large \color{DeepSkyBlue} \ E_{\text{photon}} \$: Energy of the incident photon.  <br>
-    - $\large \color{DeepSkyBlue} \ h \$: Planck's constant (\(6.626 \times 10^{-34} \, \text{J·s}\)).   <br>
+    - $\large \color{DeepSkyBlue} \ h \$: Planck's constant $\large \color{DeepSkyBlue} \(6.626 \times 10^{-34} \, \text{J·s}\)$.   <br>
      - **\( f \)**: Frequency of the incident light.
      - **\( W \)**: Work function (the minimum energy required to remove an electron from the material).
      - **\( K \)**: Kinetic energy of the ejected electron.
