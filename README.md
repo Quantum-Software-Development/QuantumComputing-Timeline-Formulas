@@ -282,8 +282,7 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 
 #
 
-7. **Albert Einstein (1905)**  <br>  
-──────────────  
+7. **Albert Einstein (1905)**  <br> ──────────────  
 
    * **Explanation of the Photoelectric Effect**: Introduced the concept of photons, explaining that light consists of discrete energy packets. ([byjus.com](https://byjus.com/physics/einsteins-explaination/?utm_source=chatgpt.com))
 
