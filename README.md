@@ -284,9 +284,16 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 
 ### 7. [Albert Einstein]() (1905)  <br> ──────────────  
 
-   * **Explanation of the Photoelectric Effect**: Introduced the concept of photons, explaining that light consists of discrete energy packets. ([byjus.com](https://byjus.com/physics/einsteins-explaination/?utm_source=chatgpt.com))
+   * **Photoelectric Effect Formula**:  
+     $\huge \color{DeepSkyBlue} E_{\text{photon}} = h \cdot f = W + K$
 
-  
+     Where:  
+     - **\( E_{\text{photon}} \)**: Energy of the incident photon.
+     - **\( h \)**: Planck's constant (\(6.626 \times 10^{-34} \, \text{J·s}\)).
+     - **\( f \)**: Frequency of the incident light.
+     - **\( W \)**: Work function (the minimum energy required to remove an electron from the material).
+     - **\( K \)**: Kinetic energy of the ejected electron.
+
 
 
      
