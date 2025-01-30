@@ -289,7 +289,9 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
    * **Photoelectric Effect Formula**:  
      $\huge \color{DeepSkyBlue} E_{\text{photon}} = h \cdot f = W + K$
 
-     Where:  
+      <br>
+
+     [Where]():  
      - **\( E_{\text{photon}} \)**: Energy of the incident photon.
      - **\( h \)**: Planck's constant (\(6.626 \times 10^{-34} \, \text{J·s}\)).
      - **\( f \)**: Frequency of the incident light.
