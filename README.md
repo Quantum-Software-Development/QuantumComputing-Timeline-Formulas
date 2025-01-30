@@ -201,9 +201,8 @@ Joseph Fourier’s development of Fourier analysis allowed quantum mechanics to 
   [Where]():  
   - $\large \color{DeepSkyBlue} f(x)$ is the original function in the spatial domain.  
   - $\large \color{DeepSkyBlue} \hat{f}(k)$ is the transformed function in the frequency domain.  
-  - $\large \color{DeepSkyBlue} \ x \$ represents position, and $\large \color{DeepSkyBlue} k$ represents momentum or frequency.
+  - $\large \color{DeepSkyBlue} x$ represents position, and $k$ represents momentum or frequency.
 
-   <br>
      
  **Relevance in** Quantum Mechanics and Computing:]()  
    - **Quantum Mechanics**: Converts wavefunctions between position and momentum spaces.  
