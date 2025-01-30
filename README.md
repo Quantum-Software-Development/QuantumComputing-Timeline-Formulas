@@ -278,9 +278,16 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
      - $\large \color{DeepSkyBlue} \ f \$: Frequency of the radiation. 
 
    Planck's revolutionary idea that energy levels are quantized laid the foundation for modern quantum mechanics, profoundly influencing our understanding of atomic and subatomic processes. ([Physics LibreTexts](https://phys.libretexts.org/Bookshelves/College_Physics/College_Physics_1e_%28OpenStax%29/29%3A_Introduction_to_Quantum_Physics/29.01%3A_Quantization_of_Energy?utm_source=chatgpt.com)) 
-    
-    
-   
+
+
+#
+
+7. **Albert Einstein (1905)**  <br>  
+──────────────  
+
+   * **Explanation of the Photoelectric Effect**: Introduced the concept of photons, explaining that light consists of discrete energy packets. ([byjus.com](https://byjus.com/physics/einsteins-explaination/?utm_source=chatgpt.com))
+
+  
 
 
      
