@@ -305,6 +305,11 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 
 ### 8. [Niels Bohr]() (1913)   <br> ──────────────  
 
+   * Bohr's atomic model with quantized energy levels.
+
+   Formula for the energy levels of an electron in a hydrogen atom:  
+  
+
 
      
    
