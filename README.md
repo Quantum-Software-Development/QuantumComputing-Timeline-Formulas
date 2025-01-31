@@ -303,7 +303,7 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 #
 
 
-8. **Niels Bohr (1913)**  
+### 8. [Niels Bohr]() (1913)   <br> ──────────────  
 
 
      
