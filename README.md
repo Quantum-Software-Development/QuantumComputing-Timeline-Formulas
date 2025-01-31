@@ -307,7 +307,10 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 
    * Bohr's atomic model with quantized energy levels.
 
-   * **Formula for the energy levels of an electron in a hydrogen atoma**: 
+   * **Formula for the energy levels of an electron in a hydrogen atoma**:
+
+   $\huge \color{DeepSkyBlue} E_n = -\frac{13.6 \, \text{eV}}{n^2}$
+
   
 
 
