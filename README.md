@@ -311,6 +311,12 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 
    $\huge \color{DeepSkyBlue} E_n = -\frac{13.6 \, \text{eV}}{n^2}$
 
+   
+   Where:  
+   - $$\large \color{DeepSkyBlue} E_n$$ is the energy of the $$n$$-th level.  
+   - $$\large \color{DeepSkyBlue} n$$ is the principal quantum number.
+
+
   
 
 
