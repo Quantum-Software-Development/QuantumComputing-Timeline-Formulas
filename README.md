@@ -300,6 +300,12 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
    Einstein's explanation of the photoelectric effect provided crucial evidence for the quantization of light and earned him the Nobel Prize in Physics in 1921. ([phys.libretexts.org](https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_%28OpenStax%29/University_Physics_III_-_Optics_and_Modern_Physics_%28OpenStax%29/06%3A_Photons_and_Matter_Waves/6.03%3A_Photoelectric_Effect?utm_source=chatgpt.com)). 
 
 
+#
+
+
+8. **Niels Bohr (1913)**  
+
+
      
    
 
