@@ -337,7 +337,7 @@ $\huge \color{DeepSkyBlue} i\hbar \frac{\partial}{\partial t} \psi(r, t) = \hat{
 
 #
 
-### 10. Werner Heisenberg (1927) <br> ──────────────  
+### 10. [Werner Heisenberg]() (1927) <br> ──────────────  
 
 
 
