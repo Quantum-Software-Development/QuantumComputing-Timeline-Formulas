@@ -341,8 +341,18 @@ $\huge \color{DeepSkyBlue} i\hbar \frac{\partial}{\partial t} \psi(r, t) = \hat{
 
 Uncertainty Principle, central to quantum physics.
 
-Formula for the Uncertainty Principle:
+
+\Formula for the Uncertainty Principle:
+
 $\huge \color{DeepSkyBlue} \Delta x \cdot \Delta p \geq \frac{\hbar}{2}$
+
+
+
+Where:
+	•	$\large \color{DeepSkyBlue} \Delta x$ is the uncertainty in position.
+	•	$\large \color{DeepSkyBlue} \Delta p$ is the uncertainty in momentum.
+
+
 
 
 
