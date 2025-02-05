@@ -305,7 +305,7 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 
 ### 8. [Niels Bohr]() (1913)   <br> ──────────────  
 
-   * Bohr's atomic model with quantized energy levels.
+   * **Bohr's atomic model with quantized energy levels.**
 
    * **Formula for the energy levels of an electron in a hydrogen atoma**:
 
@@ -322,9 +322,9 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 
 ### 9. [Erwin Schrödinger]() (1926)   <br> ──────────────  
 
-Schrödinger’s equation, the foundation of wave mechanics.
+   * **Schrödinger’s equation, the foundation of wave mechanics.**
 
-Time-dependent form of Schrödinger’s equation:
+   * **Time-dependent form of Schrödinger’s equation:**
 
 $\huge \color{DeepSkyBlue} i\hbar \frac{\partial}{\partial t} \psi(r, t) = \hat{H} \psi(r, t)$
 
