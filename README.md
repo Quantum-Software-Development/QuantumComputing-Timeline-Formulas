@@ -317,6 +317,12 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
    - $$\large \color{DeepSkyBlue} n$$ is the principal quantum number.
 
 
+#
+
+### 9. [Erwin Schrödinger]() (1926)   <br> ──────────────  
+
+
+
   
 
 
