@@ -349,9 +349,9 @@ $\huge \color{DeepSkyBlue} \Delta x \cdot \Delta p \geq \frac{\hbar}{2}$
 
 <br>
 
-Where:
-	•	$\large \color{DeepSkyBlue} \Delta x$ is the uncertainty in position.
-	•	$\large \color{DeepSkyBlue} \Delta p$ is the uncertainty in momentum.
+[Where]():
+  - $\large \color{DeepSkyBlue} \Delta x$ is the uncertainty in position.
+  - $\large \color{DeepSkyBlue} \Delta p$ is the uncertainty in momentum.
 
 
 
