@@ -331,9 +331,9 @@ $\huge \color{DeepSkyBlue} i\hbar \frac{\partial}{\partial t} \psi(r, t) = \hat{
   <br>
 
  [Where]():
- - $\large \color{DeepSkyBlue} \psi(r, t)$ is the wave function of the system.
- - $\large \color{DeepSkyBlue} \hat{H}$ is the Hamiltonian operator.
- - $\large \color{DeepSkyBlue} \hbar$ is the reduced Planck’s constant.
+ - $\large \color{DeepSkyBlue} \psi(r, t)$ is the wave function of the system. <br>
+ - $\large \color{DeepSkyBlue} \hat{H}$ is the Hamiltonian operator.  <br>
+ - $\large \color{DeepSkyBlue} \hbar$ is the reduced Planck’s constant.  <br>
 
 #
 
@@ -350,8 +350,10 @@ $\huge \color{DeepSkyBlue} \Delta x \cdot \Delta p \geq \frac{\hbar}{2}$
 <br>
 
 [Where]():
-  - $\large \color{DeepSkyBlue} \Delta x$ is the uncertainty in position.
-  - $\large \color{DeepSkyBlue} \Delta p$ is the uncertainty in momentum.
+  - $\large \color{DeepSkyBlue} \Delta x$ is the uncertainty in position. <br>
+  - $\large \color{DeepSkyBlue} \Delta p$ is the uncertainty in momentum. <br>
+
+  #
 
 
 
