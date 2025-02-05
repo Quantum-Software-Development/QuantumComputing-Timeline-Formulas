@@ -314,8 +314,8 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
   <br>
    
    [Where]():  
-   - $$\large \color{DeepSkyBlue} E_n$$ is the energy of the $$n$$-th level.  
-   - $$\large \color{DeepSkyBlue} n$$ is the principal quantum number.
+   - $$\large \color{DeepSkyBlue} E_n$$ is the energy of the $$n$$-th level.  <br>
+   - $$\large \color{DeepSkyBlue} n$$ is the principal quantum number. <br>
 
 
 #
