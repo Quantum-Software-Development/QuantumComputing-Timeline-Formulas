@@ -311,6 +311,7 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 
    $\huge \color{DeepSkyBlue} E_n = -\frac{13.6 \, \text{eV}}{n^2}$
 
+  <br>
    
    [Where]():  
    - $$\large \color{DeepSkyBlue} E_n$$ is the energy of the $$n$$-th level.  
@@ -326,6 +327,8 @@ Schrödinger’s equation, the foundation of wave mechanics.
 Time-dependent form of Schrödinger’s equation:
 
 $\huge \color{DeepSkyBlue} i\hbar \frac{\partial}{\partial t} \psi(r, t) = \hat{H} \psi(r, t)$
+
+  <br>
 
  [Where]():
  - $\large \color{DeepSkyBlue} \psi(r, t)$ is the wave function of the system.
