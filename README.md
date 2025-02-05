@@ -321,6 +321,11 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
 
 ### 9. [Erwin Schrödinger]() (1926)   <br> ──────────────  
 
+Schrödinger’s equation, the foundation of wave mechanics.
+
+Time-dependent form of Schrödinger’s equation:
+
+$\huge \color{DeepSkyBlue} i\hbar \frac{\partial}{\partial t} \psi(r, t) = \hat{H} \psi(r, t)$
 
 
   
