@@ -335,6 +335,11 @@ $\huge \color{DeepSkyBlue} i\hbar \frac{\partial}{\partial t} \psi(r, t) = \hat{
  - $\large \color{DeepSkyBlue} \hat{H}$ is the Hamiltonian operator.
  - $\large \color{DeepSkyBlue} \hbar$ is the reduced Planck’s constant.
 
+#
+
+### 10. Werner Heisenberg (1927) <br> ──────────────  
+
+
 
 
 
