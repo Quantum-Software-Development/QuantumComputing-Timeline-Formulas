@@ -227,6 +227,8 @@ $\huge \color{DeepSkyBlue} \frac{1}{\pi}$ = $\huge \color{DeepSkyBlue} \frac{2\s
 <br>
 
 [Where]():
+ - $\large \color{DeepSkyBlue} \ n \$: Summation index.
+ - $\large \color{DeepSkyBlue} \ n \$: Summation index.
 - $\large \color{DeepSkyBlue} \ n \$ : Summation index.
 
 This series converges extraordinarily rapidly, making it highly efficient for calculating $\large \color{DeepSkyBlue} \frac{1}{\pi} \( \pi \)$ to many decimal places. In 1985, William Gosper used this formula to compute $\large \color{DeepSkyBlue} \frac{1}{\pi} \( \pi \)$ to 17 million digits. 
