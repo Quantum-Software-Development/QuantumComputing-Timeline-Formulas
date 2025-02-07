@@ -146,7 +146,7 @@ Leonhard Euler, one of the most significant mathematicians in history, contribut
    
    ### ***Euler's Formula:***
      
-   $\huge \color{DeepSkyBlue} e^{i\theta} = \cos(\theta) + i\sin(\theta)$
+   $\huge \color{DeepSkyBlue} e^{i\theta}$ = $\cos(\theta) + i\sin(\theta)$
 
   <br>
 
