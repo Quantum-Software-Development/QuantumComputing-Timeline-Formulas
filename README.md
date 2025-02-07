@@ -128,9 +128,10 @@ Feel free to explore, learn, and contribute by adding information, corrections, 
   - [Quantum Interference](#quantum-interference)  
   - [Quantum Decoherence](#quantum-decoherence)  
   - [Qutrits and Qudits](#qutrits-and-qudits)
+  - [Quantum Error Correction](#quantum-error-correction)  
+
 
 - [How to Contribute](#how-to-contribute)
-- [Quantum Error Correction](#quantum-error-correction)
 - [References](#references)      
 
   
