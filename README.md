@@ -188,7 +188,7 @@ Joseph Fourier’s development of Fourier analysis allowed quantum mechanics to 
 
   ### ***Formula for Fourier Transform:***
   
-  $\huge \color{DeepSkyBlue} \hat{f}(k) = \int_{-\infty}^{\infty} f(x) \, e^{-2\pi i k x} \, dx$
+  $\huge \color{DeepSkyBlue} \hat{f}(k)$ =  $\huge \color{DeepSkyBlue} \int_{-\infty}^{\infty} f(x) \, e^{-2\pi i k x} \, dx$
 
 <br>
 
