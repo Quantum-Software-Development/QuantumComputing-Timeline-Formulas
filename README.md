@@ -133,13 +133,10 @@ Feel free to explore, learn, and contribute by adding information, corrections, 
     
 - How to Contribute
   - [Quantum Interference](#quantum-interference)
-  - [How to Submit]()  
+  - [How to Submit]()
+  - [Guidelines]()  
  
-
-- [References](#references) 
-  
-     
-
+- References
   
  <br><br>
 
