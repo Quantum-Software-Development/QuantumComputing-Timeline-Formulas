@@ -205,7 +205,7 @@ Joseph Fourier’s development of Fourier analysis allowed quantum mechanics to 
 
      
  **Relevance in** Quantum Mechanics and Computing: 
-   - **Quantum Mechanics**: Converts wavefunctions between position and momentum spaces.  
+   - **Quantum Mechanics**: Converts wave functions between position and momentum spaces.  
    - **Quantum Computing**: Basis for the Quantum Fourier Transform (QFT), essential for algorithms like Shor's factoring algorithm.
 
 
