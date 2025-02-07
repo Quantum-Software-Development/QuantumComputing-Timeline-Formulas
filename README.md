@@ -74,7 +74,7 @@ Feel free to explore, learn, and contribute by adding information, corrections, 
 
 ## Table of Contents
 
-- [Predecessors of Quantum Mechanics](#predecessors-of-quantum-mechanics)  
+- Predecessors of Quantum Mechanics
   - [Leonhard Euler (1748)](#leonhard-euler-1748)  
   - [Carl Friedrich Gauss (1809)](#carl-friedrich-gauss-1809)  
   - [Joseph Fourier (1822)](#joseph-fourier-1822)  
