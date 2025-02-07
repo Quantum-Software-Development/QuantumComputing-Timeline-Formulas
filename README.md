@@ -125,14 +125,20 @@ Feel free to explore, learn, and contribute by adding information, corrections, 
   - [Quantum Measurement](#quantum-measurement)  
 
 - Additional Concepts in Quantum Computing
-  - [Quantum Interference](#quantum-interference)  
+  - [Ways to Contribute]() 
   - [Quantum Decoherence](#quantum-decoherence)  
   - [Qutrits and Qudits](#qutrits-and-qudits)
-  - [Quantum Error Correction](#quantum-error-correction)  
+  - [Quantum Error Correction](#quantum-error-correction)
 
+    
+- How to Contribute
+  - [Quantum Interference](#quantum-interference)
+  - [How to Submit]()  
+ 
 
-- [How to Contribute](#how-to-contribute)
-- [References](#references)      
+- [References](#references) 
+  
+     
 
   
  <br><br>
