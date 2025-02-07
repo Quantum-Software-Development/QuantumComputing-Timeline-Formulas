@@ -81,7 +81,7 @@ Feel free to explore, learn, and contribute by adding information, corrections, 
   - [Srinivasa Ramanujan (1910–1920)](#srinivasa-ramanujan-1910-1920)  
   - [Satyendra Nath Bose (1924)](#satyendra-nath-bose-1924)  
 
-- [Foundations of Quantum Mechanics](#foundations-of-quantum-mechanics)  
+- Foundations of Quantum Mechanics 
   - [Max Planck (1900)](#max-planck-1900)  
   - [Albert Einstein (1905)](#albert-einstein-1905)  
   - [Niels Bohr (1913)](#niels-bohr-1913)  
@@ -89,7 +89,7 @@ Feel free to explore, learn, and contribute by adding information, corrections, 
   - [Werner Heisenberg (1927)](#werner-heisenberg-1927)  
   - [Paul Dirac (1928)](#paul-dirac-1928)  
 
-- [Mid-20th Century Contributions](#mid-20th-century-contributions)  
+- Mid-20th Century Contributions 
   - [John von Neumann (1932)](#john-von-neumann-1932)  
   - [Claude Shannon (1948)](#claude-shannon-1948)  
   - [John S. Bell (1964)](#john-s-bell-1964)  
