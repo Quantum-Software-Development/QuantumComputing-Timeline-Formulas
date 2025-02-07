@@ -58,7 +58,7 @@ Every concept, formula, and historical account presented here has been thoughtfu
 
 We invite your contributions and insights, encouraging you to join us in this collaborative endeavor to honor the legacy of these great thinkers and push the boundaries of quantum exploration.
 
-Feel free to explore, learn, and contribute by adding information, corrections, or ideas—because the future of quantum computing is not shaped by individuals, but by a collective spirit of innovation and determination. This repository welcomes everyone passionate about quantum computing and bold enough to believe they can change the world.
+Feel free to explore, learn, and contribute by adding information, corrections, or ideas—because [the future of quantum computing is not shaped by individuals, but by a collective spirit of innovation and determination](). This repository welcomes everyone passionate about quantum computing and bold enough to [believe they can change the world]().
 
 
 <br>
