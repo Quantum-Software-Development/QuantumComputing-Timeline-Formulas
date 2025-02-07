@@ -67,7 +67,7 @@ Feel free to explore, learn, and contribute by adding information, corrections, 
 
 <br>
 
-####  <p align="center"> 🔭๋࣭  ***< made with vibe, [frequency](), and joy />*** 
+####  <p align="center"> 🔭๋࣭   ***< made with vibe, [frequency](), and joy />*** 
 
 <br>
 
@@ -98,7 +98,7 @@ Feel free to explore, learn, and contribute by adding information, corrections, 
   - [Gilles Brassard (1984)](#gilles-brassard-1984)  
   - [David Deutsch (1985)](#david-deutsch-1985)  
 
-- [Quantum Computing in the 1990s and 2000s](#quantum-computing-in-the-1990s-and-2000s)  
+- Quantum Computing in the 1990s and 2000s  
   - [Artur Ekert (1991)](#artur-ekert-1991)  
   - [Charles Bennett (1993)](#charles-bennett-1993)  
   - [Peter Shor (1994)](#peter-shor-1994)  
@@ -107,24 +107,24 @@ Feel free to explore, learn, and contribute by adding information, corrections, 
   - [Alexei Kitaev (1997)](#alexei-kitaev-1997)  
   - [William Wootters (1998)](#william-wootters-1998)  
 
-- [Modern Era of Quantum Computing](#modern-era-of-quantum-computing)  
+- Modern Era of Quantum Computing 
   - [Scott Aaronson (2010–present)](#scott-aaronson-2010-present)  
   - [John Preskill (2012)](#john-preskill-2012)  
   - [Alain Aspect (2022)](#alain-aspect-2022)  
   - [Anton Zeilinger (2022)](#anton-zeilinger-2022)  
 
-- [Current Quantum Computing Pioneers](#current-quantum-computing-pioneers)  
+- Current Quantum Computing Pioneers  
   - [Umesh Vazirani](#umesh-vazirani)  
   - [Michelle Simmons](#michelle-simmons)  
   - [Guglielmo Mazzola](#guglielmo-mazzola)  
 
-- [Key Concepts in Quantum Computing](#key-concepts-in-quantum-computing)  
+- Key Concepts in Quantum Computing
   - [Superposition](#superposition)  
   - [Entanglement](#entanglement)  
   - [Quantum Gates](#quantum-gates)  
   - [Quantum Measurement](#quantum-measurement)  
 
-- [Additional Concepts in Quantum Computing](#additional-concepts-in-quantum-computing)  
+- Additional Concepts in Quantum Computing
   - [Quantum Interference](#quantum-interference)  
   - [Quantum Decoherence](#quantum-decoherence)  
   - [Qutrits and Qudits](#qutrits-and-qudits)
