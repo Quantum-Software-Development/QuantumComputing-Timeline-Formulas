@@ -54,7 +54,7 @@ https://github.com/user-attachments/assets/6eaafec8-fc98-4180-9c1f-ac4f9b0199ee
 
 This repository is a heartfelt tribute to the pioneers of quantum mechanics and computing, whose brilliance and vision have illuminated the path to one of humanity’s most profound scientific revolutions. It serves as both a beacon and a foundation for those eager to explore the intricacies of quantum computing, showcasing the journey from groundbreaking discoveries to the cutting-edge innovations shaping our future.
 
-Every concept, formula, and historical account presented here has been thoughtfully curated with deep respect for the minds that dared to question the unknown and redefine our understanding of reality. This is not just a repository of knowledge—it is a celebration of human ingenuity, curiosity, and the relentless pursuit of truth.
+Every concept, formula, and historical account presented here has been thoughtfully curated with deep respect for the [minds that dared to question the unknown and redefine our understanding of reality](). This is not just a repository of knowledge—it is a celebration of human ingenuity, curiosity, and the relentless pursuit of truth.
 
 We invite your contributions and insights, encouraging you to join us in this collaborative endeavor to honor the legacy of these great thinkers and push the boundaries of quantum exploration.
 
