@@ -227,7 +227,7 @@ $\huge \color{DeepSkyBlue} \frac{1}{\pi}$ = $\huge \color{DeepSkyBlue} \frac{2\s
 <br>
 
 [Where]():
-- $\large \color{DeepSkyBlue} \ n \$ : Summation index.
+<!-- - $\large \color{DeepSkyBlue} \ n \$ : Summation index.-->
 - $\large \color{DeepSkyBlue} \ n \$: Summation index.
 
 
