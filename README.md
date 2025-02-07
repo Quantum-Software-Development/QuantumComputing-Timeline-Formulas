@@ -253,7 +253,9 @@ Ramanujan's deep insights into infinite series and modular forms continue to inf
      - $\large \color{DeepSkyBlue} \ k_B \$: Boltzmann constant.  
      - $\large \color{DeepSkyBlue} \ T \$: Temperature.  
 
- Bose's work laid the groundwork for quantum statistics and particle behavior at near-zero temperatures. 
+   Bose's work laid the groundwork for quantum statistics and particle behavior at near-zero temperatures.
+
+   His contributions have been instrumental in advancing our understanding of quantum mechanics and have paved the way for numerous applications in modern physics. 
 
 <br>
 
