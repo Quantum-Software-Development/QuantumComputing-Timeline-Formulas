@@ -194,7 +194,7 @@ Joseph Fourier’s development of Fourier analysis allowed quantum mechanics to 
 
    ### ***Formula for [Inverse]() Fourier Transform:***
   
-   $\huge \color{DeepSkyBlue} f(x) = \int_{-\infty}^{\infty} \hat{f}(k) \, e^{2\pi i k x} \, dk$
+   $\huge \color{DeepSkyBlue} f(x)$ = $\huge \color{DeepSkyBlue \int_{-\infty}^{\infty} \hat{f}(k) \, e^{2\pi i k x} \, dk$
 
    <br>
 
